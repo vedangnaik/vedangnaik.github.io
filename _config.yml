@@ -10,7 +10,6 @@ relative_permalinks: false
 title:            Unhandled Exceptions
 tagline:          'something'
 description:      'Tag line blah blah'
-baseurl: /
 
 author:
   name:           'Vedang Naik'
