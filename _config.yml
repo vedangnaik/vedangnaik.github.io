@@ -10,8 +10,7 @@ relative_permalinks: false
 title:            Unhandled Exceptions
 tagline:          'something'
 description:      'Tag line blah blah'
-url:              http://hyde.getpoole.com
-baseurl:          /
+baseurl: /
 
 author:
   name:           'Vedang Naik'
