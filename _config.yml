@@ -1,0 +1,28 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: false
+
+# Setup
+title:            Unhandled Exceptions
+tagline:          'something'
+description:      'Tag line blah blah'
+url:              http://hyde.getpoole.com
+baseurl:          /
+
+author:
+  name:           'Vedang Naik'
+  url:            https://github.com/vedangnaik
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/vedangnaik
+
+plugins: [jekyll-paginate]
