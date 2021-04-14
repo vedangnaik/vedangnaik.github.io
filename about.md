@@ -1,13 +1,12 @@
 ---
 layout: page
-title: About
+title: About Me
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Hey there! I'm Vedang, a computer science student at the University of Toronto. I periodically get interested in various topics, and sometimes even get around to documenting them here.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+* GitHub: https://github.com/vedangnaik
+* LinkedIn: https://www.linkedin.com/in/vedang-naik/ 
 
 There are currently two themes built on Poole:
 

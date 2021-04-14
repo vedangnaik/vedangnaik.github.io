@@ -248,3 +248,17 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+
+/* My custom stuff */
+.post-summary {
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+  height: 15rem;
+}
+.post-summary-fade {
+  background-image: linear-gradient(#000000, rgba(0,0,0,0));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  height: 16rem;
+}
