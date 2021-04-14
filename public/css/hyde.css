@@ -252,8 +252,6 @@ a.sidebar-nav-item:focus {
 
 /* My custom stuff */
 .post-summary {
-  text-overflow: ellipsis;
-  white-space: nowrap;
   overflow: hidden;
   height: 15rem;
 }
