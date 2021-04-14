@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "NodeMCU Programming in Assembly: Following the Train of Thought"
+title: "NodeMCU in Assembly: Following the Train of Thought"
 ---
+
+About two weeks back
 
 Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 
