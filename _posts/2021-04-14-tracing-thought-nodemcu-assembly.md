@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NodeMCU in Assembly: Following the Train of Thought"
+title: "Tracing Thought: NodeMCU Programming in Assembly"
 ---
 
 About two weeks ago, I finally found enough time to do some serious research into how bootloaders and operating systems worked. However, my chosen resource, the excellent [OSTEP](http://pages.cs.wisc.edu/~remzi/OSTEP/), was simply too theoretical; while its explanations were top-notch, there was little code. So I did some digging, and soon realized why - operating systems needed a surprising amount of hardware support, and the instruction set architecture (ISA) landscape was a nightmare! A learner would quickly miss the point amidst all the `#ifdef`s. But I still wanted some code - it's one thing knowing the idea, and another entirely to plant your feet into a mud and make it real. Thus, I decided to look for some open-source kernels. And no, not Linux (or GNU/Linux or whatever). Since I was (and still am) hoping to eventually write my own small kernel and test it on *real* hardware, my poison of choice needed to be carefully selected - it needed to be written for an ISA for which hardware was easily available, and it needed to be small and well-documented enough that reading it wouldn't take years.
