@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Giving Up: Context Switching in NodeMCU"
+title: "Overconfidence: Context Switching in NodeMCU"
 ---
 
 With my exams done and the Raspberry Pi (and associated serial cable, which I forgot to order) delivered, I decided to start my [quest]({% post_url 2021-04-14-tracing-thought-nodemcu-assembly %}) in earnest. I started following Sergey's tutorial, but right away I ran into problems: while the first lesson compiled (and after some firmware tweaks and a longer foray into the linker, again 😐) ran fine, I was finding the process very tedious: one had to repeatedly remove the SD card, mount it, copy the new files, then insert it back into the Pi, and then reboot it and wait around 30 seconds, and all while the Pi itself had to be connected to a separate power supply (the laptop USB didn't seem to be enough). So I thought, *Hey, I've already read the chapters on scheduling right? Why don't I try making a simple scheduler for the NodeMCU? I already know how to program that in assembly, after all...*
