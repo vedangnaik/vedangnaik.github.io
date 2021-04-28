@@ -116,8 +116,8 @@ strong {
 
 /* Lists */
 ul, ol, dl {
-  margin-top: 0;
-  margin-bottom: 1rem;
+  margin-top: 0.25rem;
+  margin-bottom: 0.25rem;
 }
 
 dt {
@@ -243,7 +243,7 @@ table {
 }
 td,
 th {
-  padding: .25rem .5rem;
+  padding: .25rem .75rem;
   border: 1px solid #e5e5e5;
 }
 tbody tr:nth-child(odd) td,
