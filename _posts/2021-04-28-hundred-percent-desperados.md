@@ -28,7 +28,6 @@ From here, I will mainly focus on the other achievements, proceeding in a missio
 
 
 ### Devil’s Canyon (Chapter 1)
-
 <table>
     <colgroup>
       <col span="1" style="width: 15%;">
@@ -60,7 +59,6 @@ From here, I will mainly focus on the other achievements, proceeding in a missio
 
 
 ### Byers Pass
-
 <table>
     <colgroup>
       <col span="1" style="width: 15%;">
@@ -105,7 +103,6 @@ From here, I will mainly focus on the other achievements, proceeding in a missio
 
 
 ### Troublemakers in Flagstone
-
 <table>
     <colgroup>
       <col span="1" style="width: 15%;">
@@ -144,7 +141,6 @@ From here, I will mainly focus on the other achievements, proceeding in a missio
 
 
 ### Until Death Do Us Part
-
 <table>
     <colgroup>
       <col span="1" style="width: 15%;">
@@ -177,6 +173,49 @@ From here, I will mainly focus on the other achievements, proceeding in a missio
         <td>
             <ul>
                 <li>If you have the time, you may want to pick up the seventh badge '<i>Kill everyone except for the civilians</i>' as well. However, note that due to the three 'parts' of this mission, getting it is buggy. It's best to check a video guide before spending time on this.</li>
+            </ul>
+        </td>
+    </tr>
+</table>
+
+
+### O'Hara Ranch
+<table>
+    <colgroup>
+      <col span="1" style="width: 15%;">
+      <col span="1" style="width: 85%;">
+    </colgroup>
+    <tr>
+        <td><i>Badges</i></td>
+        <td>
+            After this mission, we will have <b>6/90</b> badges.
+            <ol>
+                <li><u>Kill all Long Coats</u>: <b>Important!</b> While this badge is self-explanatory, it must be done <i>before</i> you get McCoy and Hector to the rooftop for the second part of the level.</li>
+                <li><u>Finish the mission without using a torch</u>: Self-explanatory. Note that even picking up a torch counts as 'using' it.</li>
+                <li><u>Win the bet with Hector</u>: Self-explanatory. However, this cannot be done simultaneously with the badge #4.</li>
+                <li><u>Win the bet with McCoy</u>: Self-explanatory. However, this cannot be done simultaneously with the badge #3.</li>
+                <li><u>Burn 15 guards in oil puddles</u>: This can be 'manually' done by knocking out 15 guards and using Hector and McCoy to place them on an oil puddle, then lighting it on fire. Make sure to do one set of five to get the <i>Inferno</i> achievement. This method may conflict with badge #2, however.</li>
+                <li><u>Complete the mission on Hard difficulty</u>: Self-explnatory.</li>
+            </ol>
+        </td>
+    </tr>
+    <tr>
+        <td><i>Mimimi devs</i></td>
+        <td><a href="https://www.trueachievements.com/a298714/veteran-bounty-hunter-achievement">Two</a></td>
+    </tr>
+    <tr>
+        <td><i>Secret achievements</i></td>
+        <td>
+            <a href="https://www.youtube.com/watch?v=8HPY9EEK7OU"><i>M-M-M-M-MONSTER KILL: Kill 6 guards at once using only a single skill.</i></a><br>
+            <i>Inferno: In the first part of the mission, burn 5 guards at once with oil traps.</i><br>
+        </td>
+    </tr>
+    <tr>
+        <td><i>Notes</i></td>
+        <td>
+            <ul>
+                <li><b>Important!</b> If you shoot <i>any enemy</i> carrying a lantern over an oil puddle, then the puddle will ignite. This makes the whole level far easier and allows one to easily skip using torches altogether.</li>
+                <li>It may be possible to save time getting badges #3 and #4 by creating a save point before the end of the mission and them finishing it once with Hector and once with McCoy. I have not tested this however.</li>
             </ul>
         </td>
     </tr>
