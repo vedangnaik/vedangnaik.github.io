@@ -342,9 +342,50 @@ From here, I will mainly focus on the other achievements, proceeding in a missio
         <td><i>Notes</i></td>
         <td>
             <ul>
-                <li><b>Important!</b> This is a general tip for all levels with Isabelle. If a normal guard and a Long Coat are connected together, <i>kililng or knocking out</i> the normal guard will cause the Long Coat to enter the stagger state, as if they'd been shot. This allows Isabelle to single-handedly take out Long Coats. This can be exploited further by bringing along one unconscious and tied-up guard and connecting to them.</li>
+                <li><b>Important!</b> This is a general tip for all levels with Isabelle. If a normal guard and a Long Coat are connected together, <i>killing or knocking out</i> the normal guard will cause the Long Coat to enter the stagger state, as if they'd been shot. This allows Isabelle to single-handedly take out Long Coats. This can be exploited further by bringing along one unconscious and tied-up guard and connecting to them.</li>
                 <li>Note that Isabelle cannot move when she's mind-controlling someone. This means you must move her to a safe place before starting, otherwise you run the risk of another guard seeing her.</li>
                 <li>Isabelle can use a mind-controlled guard to easily take over the Gatling gun near Cooper's boat and clear the area.</li>
+            </ul>
+        </td>
+    </tr>
+</table>
+
+
+### Back Alley Jazz
+<table>
+    <colgroup>
+      <col span="1" style="width: 15%;">
+      <col span="1" style="width: 85%;">
+    </colgroup>
+    <tr>
+        <td><i>Badges</i></td>
+        <td>
+            After this mission, we will have <b>47/90</b> badges.
+            <ol>
+                <li><u>Don't kill any suspects</u>: This badge is fairly straightforward. It's best combined with badges #4 and #5.</li>
+                <li><u>Kill all suspects</u>: Again, fairly straightforward. It's best combined with badge #3. If doing so, make sure to save at least 2 mind-control darts for use with the dog.</li>
+                <li><u>Kill 3 guards using dogs</u>: You must mind-control the dog and force it to bite a guard. You will need at least 2 darts for this. Make sure to use Isabelle to connect two guards together to get more bang for you bark 😉. Similar to mind-controlled guards, other enemies will not raise an alert upon seeing the dead bodies.</li>
+                <li><u>Don't kill anyone</u>: This is a little tedious, but not overly difficult; see the <i>Notes</i> section. Make sure to switch all characters to their non-lethal mode by default to avoid mistaken kills.</li>
+                <li><u>Get information on aliases and locations for all suspects - Gather the codenames and locations for all suspects</u>: This does not need to be done if going for badge #2.</li>
+                <li><u>Complete the mission on Hard difficulty</u>: Self-explanatory.</li>
+            </ol>
+        </td>
+    </tr>
+    <tr>
+        <td><i>Mimimi devs</i></td>
+        <td><a href="https://www.trueachievements.com/a298714/veteran-bounty-hunter-achievement">Three</a></td>
+    </tr>
+    <tr>
+        <td><i>Secret achievements</i></td>
+        <td>None</td>
+    </tr>
+    <tr>
+        <td><i>Notes</i></td>
+        <td>
+            <ul>
+                <li><b>Important!</b> This is a general tip for all levels with Kate. Kate has an 'instantaneous' body pick up animation. This can be used to cancel the long falling animation of guards who have just been shot. For example, if a guard is standing in the grey viewcone of another guard, Kate can shoot him and them immediately pick them up to cancel the fall animation and prevent the other guard from noticing. This makes certain parts of this level much easier.</li>
+                <li>Make sure to get Kate's disguise; it's very easy to obtain and her Lure ability can be heavily used in this level. Luring guards from guarded zones to civilian zones is especially useful since most actions such as knockouts and kills are ignored in civil zones. The pier section specifically can be almost completely cleared with disguised Kate alone.</li>
+                <li>When wearing her disguise, Kate will not get caught even if she triggers environmental traps.</li>
             </ul>
         </td>
     </tr>
