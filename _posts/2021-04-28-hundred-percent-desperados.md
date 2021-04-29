@@ -188,7 +188,7 @@ From here, I will mainly focus on the other achievements, proceeding in a missio
     <tr>
         <td><i>Badges</i></td>
         <td>
-            After this mission, we will have <b>6/90</b> badges.
+            After this mission, we will have <b>23/90</b> badges.
             <ol>
                 <li><u>Kill all Long Coats</u>: <b>Important!</b> While this badge is self-explanatory, it must be done <i>before</i> you get McCoy and Hector to the rooftop for the second part of the level.</li>
                 <li><u>Finish the mission without using a torch</u>: Self-explanatory. Note that even picking up a torch counts as 'using' it.</li>
@@ -216,6 +216,49 @@ From here, I will mainly focus on the other achievements, proceeding in a missio
             <ul>
                 <li><b>Important!</b> If you shoot <i>any enemy</i> carrying a lantern over an oil puddle, then the puddle will ignite. This makes the whole level far easier and allows one to easily skip using torches altogether.</li>
                 <li>It may be possible to save time getting badges #3 and #4 by creating a save point before the end of the mission and them finishing it once with Hector and once with McCoy. I have not tested this however.</li>
+            </ul>
+        </td>
+    </tr>
+</table>
+
+
+### Eagle Falls
+<table>
+    <colgroup>
+      <col span="1" style="width: 15%;">
+      <col span="1" style="width: 85%;">
+    </colgroup>
+    <tr>
+        <td><i>Badges</i></td>
+        <td>
+            After this mission, we will have <b>29/90</b> badges.
+            <ol>
+                <li><u>Get the dynamite from the quarry</u>: Self-explanatory. Note that this badge cannot be completed simultaneously with badge #2. This plays nicely with badge #4 however, so these two can be done together.</li>
+                <li><u>Get the dynamite from the shooting range</u>: Self-explanatory.</li>
+                <li><u>Kill 3 guards with rolling logs</u>: The logs are near the sawmill near the shooting range. With her disguise, Kate can easily walk there and release the logs undetected.</li>
+                <li><u>Kill 3 guards at the same time in a quarry explosion</u>: Self-explanatory. The explosion is instantaneous, so you can use Showdown mode to clear the remaining guards and run and detonate the dynamite to finish off the three near the wall.</li>
+                <li><u>Kill 5 guards when destroying the bridge</u>: This can be 'manually' done by knocking out 5 guards and using the characters to move them to the centre of the bridge, right above where the dynamite is placed. This can be done at any time before shooting the dynamite. The badge will appear midway through the cut-scene.</li>
+                <li><u>Complete the mission on Hard difficulty</u>: Self-explnatory.</li>
+            </ol>
+        </td>
+    </tr>
+    <tr>
+        <td><i>Mimimi devs</i></td>
+        <td><a href="https://www.trueachievements.com/a298714/veteran-bounty-hunter-achievement">Two</a></td>
+    </tr>
+    <tr>
+        <td><i>Secret achievements</i></td>
+        <td>
+            <i>Goodbye Colorado: Blow up a bridge.</i> - On completion of the level.
+        </td>
+    </tr>
+    <tr>
+        <td><i>Notes</i></td>
+        <td>
+            <ul>
+                <li>Kate's disguise makes large parts of this mission trivial, especially at Normal difficulty. With some careful planning, it may also be possible to get the <u>Don't use firearms</u> badge; this may be excessively tedious, however.</li>
+                <li>This is a good level to gain some kills with Bianca for the <i>Good Girl</i> quantity achievement; Hector can easily lure almost all the guards one by one.</li>
+                <li>Don't hesitate to use Cooper's double-shot near the quarry and shooting range; since these areas are near the edge of the map, it's easier to ensure that no one will hear the gunshots.</li>
             </ul>
         </td>
     </tr>
