@@ -9,23 +9,34 @@ I've been replaying [Desperados III](https://store.steampowered.com/app/610370/D
 <br>
 <br>
 
-With that in mind, let's begin. As of the writing of this post, the base game on Steam has 36 achievements. Many of them are 'quantity' achievements (i.e. *hide `x` bodies, mind control `y` guards*, etc.) which are naturally completed over the course of a playthrough. These are mentioned below:
+With that in mind, let's begin. As of the writing of this post, the base game on Steam has 36 achievements. Many of them are 'natural' achievements (i.e. *hide `x` bodies, mind control `y` guards*, etc.) which are naturally completed over the course of a playthrough. The remainder have to be specially pursued and obtained on a per-mission basis.
 
-| **Name** | **Completion Criterion** |
-| They Wear Red Bandanas | Kill 75 Long Coats. |
-| Maneater Shrub | Hide 750 bodies. |
-| Someone Call the Undertaker | Kill 1,000 guards. |
-| Watch Out Below! | Kill 50 guards using the environment. |
-| Out of Sight, Out of Mind | Hide 250 bodies. |
-| Another One Bites the Dust | Kill 500 guards. |
-| Damn Good Marksman | Snipe 50 guards with McCoy. |
-| Puppet Master | Mind control 25 guards with Isabelle. |
-| Good Girl | Kill 75 guards with Bianca. |
-| Doubletime | Kill 200 guards using Cooper's double shot. |
-| Follow Me Darling | Make guards follow Kate for 1,000 meters total. | 
+<nav>
+  <h4>Navigation</h4>
+  * this unordered seed list will be replaced by toc as unordered list
+  {:toc}
+</nav>
 
-From here, I will mainly focus on the other achievements, proceeding in a mission-by-mission manner. Each mission section will focus on badges (for *Sheriff's Badge: Earn 90 badges.*), [the Mimimi dev NPCs](https://www.trueachievements.com/a298714/veteran-bounty-hunter-achievement) (for *Seasoned Bounty Hunter: Kill 15 of the hidden Mimimi devs.* and *Veteran Bounty Hunter: Kill 31 hidden Mimimi devs.*), and secret achievements.
+## Natural Achievements
 
+All the natural achievements are listed here. Some farming techniques have also been provided in case you're falling short.
+
+| **Name** | **Completion Criterion** | Farming Technique |
+| They Wear Red Bandanas | Kill 75 Long Coats. |TODO|
+| Maneater Shrub | Hide 750 bodies. |TODO|
+| Someone Call the Undertaker | Kill 1,000 guards. |TODO|
+| Watch Out Below! | Kill 50 guards using the environment. |TODO|
+| Out of Sight, Out of Mind | Hide 250 bodies. |TODO|
+| Another One Bites the Dust | Kill 500 guards. |TODO|
+| Damn Good Marksman | Snipe 50 guards with McCoy. |TODO|
+| Puppet Master | Mind control 25 guards with Isabelle. |TODO|
+| Good Girl | Kill 75 guards with Bianca. |TODO|
+| Doubletime | Kill 200 guards using Cooper's double shot. |TODO|
+| Follow Me Darling | Make guards follow Kate for 1,000 meters total. |TODO|
+
+## Specific Achievements
+
+This section will focus on the other achievements, proceeding in a mission-by-mission manner. Each mission section will focus on badges (for *Sheriff's Badge: Earn 90 badges.*), [the Mimimi dev NPCs](https://www.trueachievements.com/a298714/veteran-bounty-hunter-achievement) (for *Seasoned Bounty Hunter: Kill 15 of the hidden Mimimi devs.* and *Veteran Bounty Hunter: Kill 31 hidden Mimimi devs.*), and any secret achievements.
 
 ### Devil’s Canyon (Chapter 1)
 <table>
@@ -94,7 +105,7 @@ From here, I will mainly focus on the other achievements, proceeding in a missio
         <td><i>Notes</i></td>
         <td>
             <ul>
-                <li>This is a good mission to rack up double-shots for the quantity achievement <i>Doubletime</i>, if you're falling short.</li>
+                <li>This is a good mission to rack up double-shots for the natural achievement <i>Doubletime</i>, if you're falling short.</li>
                 <li>This is probably the easiest mission to complete in Desperado difficulty, for the achievement <i>Hardcore: Finish a mission on "Desperado" difficulty.</i></li>
             </ul>
         </td>
@@ -257,7 +268,7 @@ From here, I will mainly focus on the other achievements, proceeding in a missio
         <td>
             <ul>
                 <li>Kate's disguise makes large parts of this mission trivial, especially at Normal difficulty. With some careful planning, it may also be possible to get the <u>Don't use firearms</u> badge; this may be excessively tedious, however.</li>
-                <li>This is a good level to gain some kills with Bianca for the <i>Good Girl</i> quantity achievement; Hector can easily lure almost all the guards one by one.</li>
+                <li>This is a good level to gain some kills with Bianca for the <i>Good Girl</i> natural achievement; Hector can easily lure almost all the guards one by one.</li>
                 <li>Don't hesitate to use Cooper's double-shot near the quarry and shooting range; since these areas are near the edge of the map, it's easier to ensure that no one will hear the gunshots.</li>
             </ul>
         </td>

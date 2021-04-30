@@ -6,6 +6,9 @@ highlighter:      rouge
 permalink:        pretty
 relative_permalinks: false
 
+kramdown:
+  parse_block_html: true
+
 # Setup
 title:            Unhandled Exceptions
 tagline:          'Ramblings, interrupted'
