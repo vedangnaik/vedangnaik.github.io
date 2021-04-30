@@ -19,20 +19,62 @@ With that in mind, let's begin. As of the writing of this post, the base game on
 
 ## Natural Achievements
 
-All the natural achievements are listed here. Some farming techniques have also been provided in case you're falling short.
+All the natural achievements are listed here. Some farming techniques have also been provided in case you're falling short. For all of these techniques, it suffices to create a quicksave just a second before the event, then reloading this over and over again until the desired number has been reached. For example, if farming for *Doubleshot*, use Showdown mode to make Cooper target two guards, then quicksave, then execute the action. After that, just reload the quicksave and execute it again over and over. Even though you're killing the same guards again and again, it still counts as separate kills in Steam achievements.
 
-| **Name** | **Completion Criterion** | Farming Technique |
-| They Wear Red Bandanas | Kill 75 Long Coats. |TODO|
-| Maneater Shrub | Hide 750 bodies. |TODO|
-| Someone Call the Undertaker | Kill 1,000 guards. |TODO|
-| Watch Out Below! | Kill 50 guards using the environment. |TODO|
-| Out of Sight, Out of Mind | Hide 250 bodies. |TODO|
-| Another One Bites the Dust | Kill 500 guards. |TODO|
-| Damn Good Marksman | Snipe 50 guards with McCoy. |TODO|
-| Puppet Master | Mind control 25 guards with Isabelle. |TODO|
-| Good Girl | Kill 75 guards with Bianca. |TODO|
-| Doubletime | Kill 200 guards using Cooper's double shot. |TODO|
-| Follow Me Darling | Make guards follow Kate for 1,000 meters total. |TODO|
+<table>
+    <colgroup>
+      <col span="1" style="width: 30%;">
+      <col span="1" style="width: 70%;">
+    </colgroup>
+    <tr style="text-align: center">
+        <th>Achievement</th>
+        <th>Farming Technique</th>
+    </tr>
+    <tr>
+        <td><i>Out of Sight, Out of Mind: Hide 250 bodies.</i></td>
+        <td>Any mission with all five characters allows one to use Showdown mode to hide six bodies at once (two at a time with Hector).</td>
+    </tr>
+    <tr>
+        <td><i>Maneater Shrub: Hide 750 bodies.</i></td>
+        <td>Same as above.</td>
+    </tr>
+    <tr>
+        <td><i>Another One Bites the Dust: Kill 500 guards.</i></td>
+        <td>The simultaneous kill of Frank and the circle of guards at the end of <b>The Old and the New</b> is probably the best 'story' location for this. Otherwise, you can place as many guards as you can find on an oil puddle in <b>O'Hara Ranch</b>, set them on fire, and rinse and repeat to batch-complete this achievement.</td>
+    </tr>
+    <tr>
+        <td><i>Someone Call the Undertaker: Kill 1,000 guards.</i></td>
+        <td>Same as above.</td>
+    </tr>
+    <tr>
+        <td><i>Watch Out Below!: Kill 50 guards using the environment.</i></td>
+        <td>The loose logs at the sawmill in <b>The Bridge at Eagle Falls</b> is likely the best place to do this. Kate's disguise is fairly easy to get and after that walking to the sawmill and triggering the trap is straightforward.</td>
+    </tr>
+    <tr>
+        <td><i>They Wear Red Bandanas: Kill 75 Long Coats.</i></td>
+        <td>The Long Coat tutorial at the start of <b>Troublemakers in Flagstone</b> is probably the best location for this.</td>
+    </tr>
+    <tr>
+        <td><i>Damn Good Marksman: Snipe 50 guards with McCoy.</i></td>
+        <td>The three guards at the beginning of <b>The Bridge at Eagle Falls</b> are a good candidate for doing both this achievement and <i>Doubleshot</i> at once.</td>
+    </tr>
+    <tr>
+        <td><i>Puppet Master: Mind control 25 guards with Isabelle.</i></td>
+        <td>The guard at the start of <b>Louisiana Voodoo</b> is likely the most convenient location for this.</td>
+    </tr>
+    <tr>
+        <td><i>Good Girl: Kill 75 guards with Bianca.</i></td>
+        <td>The Bianca tutorial at the start of <b>Troublemakers in Flagstone</b> is probably the best location for this. Note that you do not have to wait for the Bianca animation to finish. Steam will notify you on every twenty-fifth kill.</td>
+    </tr>
+    <tr>
+        <td><i>Doubletime: Kill 200 guards using Cooper's double shot.</i></td>
+        <td><b>Byers Pass</b> has multiple good locations for this achievement specifically. Note that you don't have to wait for the guards' shooting animation to finish. Steam will notify you on every twentieth kill.</td>
+    </tr>
+    <tr>
+        <td><i>Follow Me Darling: Make guards follow Kate for 1,000 meters total.</i></td>
+        <td><b>Back Alley Jazz</b> is likely the best mission for this since the disguise can be obtained within minutes of starting and there are multiple guards open to repeated luring. Make sure to use the fast-forward functionality to speed this up. Steam will notify you on every fiftieth metre.</td>
+    </tr>
+</table>
 
 ## Specific Achievements
 
@@ -105,7 +147,6 @@ This section will focus on the other achievements, proceeding in a mission-by-mi
         <td><i>Notes</i></td>
         <td>
             <ul>
-                <li>This is a good mission to rack up double-shots for the natural achievement <i>Doubletime</i>, if you're falling short.</li>
                 <li>This is probably the easiest mission to complete in Desperado difficulty, for the achievement <i>Hardcore: Finish a mission on "Desperado" difficulty.</i></li>
             </ul>
         </td>
@@ -233,7 +274,7 @@ This section will focus on the other achievements, proceeding in a mission-by-mi
 </table>
 
 
-### Eagle Falls
+### The Bridge at Eagle Falls
 <table>
     <colgroup>
       <col span="1" style="width: 15%;">
