@@ -390,3 +390,43 @@ From here, I will mainly focus on the other achievements, proceeding in a missio
         </td>
     </tr>
 </table>
+
+
+### Burn the Queen
+<table>
+    <colgroup>
+      <col span="1" style="width: 15%;">
+      <col span="1" style="width: 85%;">
+    </colgroup>
+    <tr>
+        <td><i>Badges</i></td>
+        <td>
+            After this mission, we will have <b>53/90</b> badges.
+            <ol>
+                <li><u>Kill everyone except for civilians</u>: This badge is fairly straightforward. Make sure to not knock out, tie up, and throw guards into bushes; if they disappear, this badge will become unobtainable. Note that this badge also (apparently) includes the reinforcements that arrive after you set the boat on fire; use Hector's shotgun to deal with them the moment they exit the guard house.</li>
+                <li><u>No knockouts or melee kills except for Isabelle</u>: This isn't as difficult as it sounds; you're still allowed to use Cooper's knife and guns, Hector's bear trap, and McCoy's sniper rifle. In fact, it's possible to forgo even his sniper rifle and combine this with badge #3.</li>
+                <li><u>Don't use McCoy's snipe</u>: This includes using McCoy's sniper rifle to shoot environmental objects and to stun Long Coats.</li>
+                <li><u>Open all cages</u>: Very easy to do, especially when combined with badge #1.</li>
+                <li><u>Hide all bodies in bushes, wells, houses, etc.</u>: Self-explanatory. Best combined with badge #1.</li>
+                <li><u>Complete the mission on Hard difficulty</u>: Self-explanatory.</li>
+            </ol>
+        </td>
+    </tr>
+    <tr>
+        <td><i>Mimimi devs</i></td>
+        <td><a href="https://www.trueachievements.com/a298714/veteran-bounty-hunter-achievement">Two</a></td>
+    </tr>
+    <tr>
+        <td><i>Secret achievements</i></td>
+        <td>None</td>
+    </tr>
+    <tr>
+        <td><i>Notes</i></td>
+        <td>
+            <ul>
+                <li>Breaking the oil barrel will not cause an alert, so you can do this part at your leisure.</li>
+                <li>Cooper can single-handedly kill a Long Coat by shooting him three times with his revolvers.</li>
+            </ul>
+        </td>
+    </tr>
+</table>
