@@ -10,7 +10,6 @@ I've been replaying [Desperados III](https://store.steampowered.com/app/610370/D
 <br>
 
 With that in mind, let's begin. As of the writing of this post, the base game on Steam has 36 achievements. Many of them are 'natural' achievements (i.e. *hide `x` bodies, mind control `y` guards*, etc.) which are naturally completed over the course of a playthrough. The remainder have to be specially pursued and obtained on a per-mission basis.
-
 <nav>
   <h4>Navigation</h4>
   * this unordered seed list will be replaced by toc as unordered list
@@ -478,6 +477,46 @@ This section will focus on the other achievements, proceeding in a mission-by-mi
             <ul>
                 <li>Breaking the oil barrel will not cause an alert, so you can do this part at your leisure.</li>
                 <li>Cooper can single-handedly kill a Long Coat by shooting him three times with his revolvers.</li>
+            </ul>
+        </td>
+    </tr>
+</table>
+
+
+### Dirt and Blood
+<table>
+    <colgroup>
+      <col span="1" style="width: 15%;">
+      <col span="1" style="width: 85%;">
+    </colgroup>
+    <tr>
+        <td><i>Badges</i></td>
+        <td>
+            After this mission, we will have <b>59/90</b> badges.
+            <ol>
+                <li><u>Choose the path on the left</u>: This badge cannot be done simultaneously with badge #2. Note that the 'path' isn't locked until any character reaches the last stretch of street before the meeting point.</li>
+                <li><u>Choose the path on the left</u>: Same as above.</li>
+                <li><u>Don't use a disguise</u>: This is easier than it looks.</li>
+                <li><u>Kill 3 guards using the steamer wheel</u>: The steamer wheel environmental trap is in the pier on the left path. On Hard difficulty, 3 guards are already in the path of the wheel. Hence, it's best to combine this with badges #6, #3, and #1.</li>
+                <li><u>Kill all Long Coats.</u>: Self-explanatory.</li>
+                <li><u>Complete the mission on Hard difficulty</u>: Self-explanatory.</li>
+            </ol>
+        </td>
+    </tr>
+    <tr>
+        <td><i>Mimimi devs</i></td>
+        <td><a href="https://www.trueachievements.com/a298714/veteran-bounty-hunter-achievement">Two</a></td>
+    </tr>
+    <tr>
+        <td><i>Secret achievements</i></td>
+        <td>None</td>
+    </tr>
+    <tr>
+        <td><i>Notes</i></td>
+        <td>
+            <ul>
+                <li>If you're feeling particularly masochistic, you can try doing one of badge #1 and #2 alongside <u>Don't use any of Cooper's skills</u> and the other badges to finish all 6 badges in a single playthrough.</li>
+                <li><b>Important!</b> This is a general tip for all levels with Hector. Hector can use bodies to knock out your <i>other</i> characters, then pick them up and throw them over short obstacles. In levels like these where piles of boxes and head-height fences block of multiple paths, this can be used to essentially 'skip' section of the level, or tackle them from behind.</li>
             </ul>
         </td>
     </tr>
