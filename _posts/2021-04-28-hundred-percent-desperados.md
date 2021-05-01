@@ -79,7 +79,7 @@ All the natural achievements are listed here. Some farming techniques have also 
 
 This section will focus on the other achievements, proceeding in a mission-by-mission manner. Each mission section will focus on badges (for *Sheriff's Badge: Earn 90 badges.*), [the Mimimi dev NPCs](https://www.trueachievements.com/a298714/veteran-bounty-hunter-achievement) (for *Seasoned Bounty Hunter: Kill 15 of the hidden Mimimi devs.* and *Veteran Bounty Hunter: Kill 31 hidden Mimimi devs.*), and any secret achievements.
 
-### Devil’s Canyon (Chapter 1)
+### On The Hunt
 <table>
     <colgroup>
       <col span="1" style="width: 15%;">
@@ -316,6 +316,35 @@ This section will focus on the other achievements, proceeding in a mission-by-mi
 </table>
 
 
+### One Good Shot
+<table>
+    <colgroup>
+      <col span="1" style="width: 15%;">
+      <col span="1" style="width: 85%;">
+    </colgroup>
+    <tr>
+        <td><i>Badges</i></td>
+        <td>
+            None
+        </td>
+    </tr>
+    <tr>
+        <td><i>Mimimi devs</i></td>
+        <td><a href="https://www.trueachievements.com/a298714/veteran-bounty-hunter-achievement">One</a></td>
+    </tr>
+    <tr>
+        <td><i>Secret achievements</i></td>
+        <td>
+            None
+        </td>
+    </tr>
+    <tr>
+        <td><i>Notes</i></td>
+        <td>None</td>
+    </tr>
+</table>
+
+
 ### One Hell of a Night
 <table>
     <colgroup>
@@ -517,6 +546,45 @@ This section will focus on the other achievements, proceeding in a mission-by-mi
             <ul>
                 <li>If you're feeling particularly masochistic, you can try doing one of badge #1 and #2 alongside <u>Don't use any of Cooper's skills</u> and the other badges to finish all 6 badges in a single playthrough.</li>
                 <li><b>Important!</b> This is a general tip for all levels with Hector. Hector can use bodies to knock out your <i>other</i> characters, then pick them up and throw them over short obstacles. In levels like these where piles of boxes and head-height fences block of multiple paths, this can be used to essentially 'skip' section of the level, or tackle them from behind.</li>
+            </ul>
+        </td>
+    </tr>
+</table>
+
+
+### A Cart Full Of Gunpowder
+<table>
+    <colgroup>
+      <col span="1" style="width: 15%;">
+      <col span="1" style="width: 85%;">
+    </colgroup>
+    <tr>
+        <td><i>Badges</i></td>
+        <td>
+            After this mission, we will have <b>65/90</b> badges.
+            <ol>
+                <li><u>Traverse the mine on the left side</u>: This badge cannot be done simultaneously with badge #2. Note that the 'path' isn't locked until any character reaches the second-to-last section of the map i.e. the bit just after the river area (from the left) and after the multilevel mine area (from the right).</li>
+                <li><u>Traverse the mine on the right side</u>: Same as above.</li>
+                <li><u>Don't pick up the dynamite</u>: This is easier than it looks; you don't have to kill everybody in the upper parts of the last section since they're too high up to see the track area.</li>
+                <li><u>Kill 20 opponents with dynamite</u>: Another easy and really fun badge which makes the entire last section of the map very quick. Once you get your hands on the dynamite, go crazy; the barrel is unlimited.</li>
+                <li><u>Don't use Isabelle's connect ability</u>: This is actually easier that it looks, especially if combined with badge #4. The first three sections of the level are fairly straightforward even without connect.</li>
+                <li><u>Complete the mission on Hard difficulty</u>: Self-explanatory.</li>
+            </ol>
+        </td>
+    </tr>
+    <tr>
+        <td><i>Mimimi devs</i></td>
+        <td><a href="https://www.trueachievements.com/a298714/veteran-bounty-hunter-achievement">Two</a></td>
+    </tr>
+    <tr>
+        <td><i>Secret achievements</i></td>
+        <td>None</td>
+    </tr>
+    <tr>
+        <td><i>Notes</i></td>
+        <td>
+            <ul>
+                <li>If you're up for a challenge, you may want to combine <u>Pick up only McCoy's gear</u> along with one of badges #1 and #2, and badges #4 and #5; Isabelle's connect is part of her gear. On the route to 90 badges, this will allow you to get one less badge in the other levels.</li>
             </ul>
         </td>
     </tr>
