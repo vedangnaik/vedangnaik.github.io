@@ -3,15 +3,26 @@ layout: post
 title: "On Techniques for Efficient 100% Steam Achievements in Desperados III"
 ---
 
+<head>
+    <style>
+        .normal-difficulty {
+            color: #f0b000;
+        }
+        .hard-difficulty {
+            color: red;
+        }
+    </style>
+</head>
+
 I've been replaying [Desperados III](https://store.steampowered.com/app/610370/Desperados_III/) on PC recently. As I was going through the first few missions, I thought *Gee, it sure would be fun to do all these extra badges and maybe even 100% this game!* However, the badges for each level do not show up until after the first completion, which leads to a ton of wasted time. One also ends up missing a lot of the secret achievements in each level. Thus, I decided to create this 'roadmap' of sorts to allow one to 100% this game in as little time as possible.
 
-<h3 style="color:red"> CAUTION! This post contains a lot of spoilers for the main game. </h3>
+<h3 style="color: red"> CAUTION! This post contains a lot of spoilers for the main game. </h3>
 <br>
 <br>
 
 With that in mind, let's begin. As of the writing of this post, the base game on Steam has 36 achievements. Many of them are 'natural' achievements (i.e. *hide `x` bodies, mind control `y` guards*, etc.) which are naturally completed over the course of a playthrough. The remainder have to be specially pursued and obtained on a per-mission basis.
 <nav>
-  <h4>Navigation</h4>
+  <h4 id="navigation">Navigation</h4>
   * this unordered seed list will be replaced by toc as unordered list
   {:toc}
 </nav>
@@ -589,3 +600,28 @@ This section will focus on the other achievements, proceeding in a mission-by-mi
         </td>
     </tr>
 </table>
+<p style="text-align: right; font-size: 12px;">[Back to Navigation](#navigation)</p>
+
+### A Captain Of Industry
+This mission actually has a normal-difficulty [speedrun strategy](https://www.youtube.com/watch?v=UovLY9SbneY) that is very simple to execute. By making small tweaks here and there to this route, you can very easily earn all eight badges inside 30 minutes.
+
+<h4 class="normal-difficulty">Playthrough #1</h4>
+Follow the route in the speedrun video linked above, with a small change to earn an extra badge.
+
+* Earn <u>Don't use both distractions</u>; this is automatically achieved by this route.
+* Earn <u>Don't let anyone see you</u>. The 22 minutes for the speedrun badge is more than enough to execute this route. Thus, take your time and avoid being spotted.
+* Earn <u>Use mind control on Devitt's character</u>; this is automatically achieved by this route. Note that some online guides say that this badge cannot be earned unless one of the distractions has been used and DeVitt is alone with his men - this is **false** (at least as of writing this post); you can get it at any point.
+* Earn <u>Kill 2 guards with a statue</u>. Immediately after relinquishing mind-control on DeVitt and securing him, use Hector to drop the statue in the courtyard onto the guard and the Long Coat. If you miss a rotation, don't worry; you have enough time to do this and still get the speedrun badge.
+* Earn <u>Speedrun: Complete the mission in under 22:00 minutes</u>. Make sure you have memorized everything that each character has to do. Play smoothly and calmly; you have enough time. The last section is a little finnicky; I found that connecting a few guards and then using Stella on them helps.
+
+<h4 class="hard-difficulty">Playthrough #2</h4>
+Follow the same route as earlier, but with more substantial changes. If you didn't get the speedrun badge, I recommend trying again in normal mode and doing this playthrough without time pressure. Make sure to make a **manual save** before finishing this playthrough; continue reading for more details.
+
+* Earn <u>Don't touch any bushes or haystacks</u>. Follow the same route as earlier, but make sure to not touch any bushes or haystacks. This makes Isabelle and Hector's section slightly more complicated.
+* Earn <u>Don't use any of Kate's or Cooper's skills</u>. This is easier than it looks, since neither of them actually do anything in this mission. Note that Cooper's tying up of a unconscious person counts as a 'skill'. Both Kate and him can still carry bodies, however. In the last section, use Hector and Isabelle to kill all guards and knock out all civilians.
+* Earn <u>Complete the mission on Hard difficulty</u> by completing the mission.
+* Once you've earned the three badges above, reload your **manual save** and backtrack with Cooper to kill the two [Mimimi developer NPCs]("https://www.trueachievements.com/a298714/veteran-bounty-hunter-achievement") at the very beginning of the level.
+
+<p style="text-align: right; font-size: 12px;">[Back to Navigation](#navigation)</p>
+
+> This post is in progress! Check back soon.
