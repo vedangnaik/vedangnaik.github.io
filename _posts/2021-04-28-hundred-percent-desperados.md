@@ -14,20 +14,32 @@ title: "On Techniques for Efficient 100% Steam Achievements in Desperados III"
     </style>
 </head>
 
-I've been replaying [Desperados III](https://store.steampowered.com/app/610370/Desperados_III/) on PC recently. As I was going through the first few missions, I thought *Gee, it sure would be fun to do all these extra badges and maybe even 100% this game!* However, the badges for each level do not show up until after the first completion, which leads to a ton of wasted time. One also ends up missing a lot of the secret achievements in each level. Thus, I decided to create this 'roadmap' of sorts to allow one to 100% this game in as little time as possible.
+I've been replaying [Desperados III](https://store.steampowered.com/app/610370/Desperados_III/) on PC recently. As I was going through the first few missions, I thought *Gee, it sure would be fun to do all these extra badges and maybe even 100% this game!* However, the badges for each mission do not show up until after the first completion, which leads to a ton of wasted time. One also ends up missing a lot of the secret achievements in each mission. Thus, I decided to create this 'roadmap' of sorts to allow one to 100% this game as efficiently as possible.
 
 <h3 style="color: red"> CAUTION! This post contains a lot of spoilers for the main game. </h3>
 <br>
 <br>
 
-With that in mind, let's begin. As of the writing of this post, the base game on Steam has 36 achievements. Many of them are 'natural' achievements (i.e. *hide `x` bodies, mind control `y` guards*, etc.) which are naturally completed over the course of a playthrough. The remainder have to be specially pursued and obtained on a per-mission basis.
+With that in mind, let's begin. First, some terminology:
+* A 'map' is the landscape upon which your characters and enemies move around. Examples include *Devil's Canyon, Casa DeVitt*, etc. These names can be seen when hovering over the mission selectors in the 'Mission Select' menu. These have no specific formatting.
+* A 'mission' is a set of objectives which you characters achieve on a map. Examples include *On the Hunt, Untitled Voodoo Mission*, etc. There are 16 missions in the main story, and 14 missions in the *Baron's Challenges*. These have no specific formatting.
+* ***Steam achievements*** (or just ***achievements***) are the main focus on this article.
+* A <u>badge</u> is a specific challenge associated with a story mission.
+* Hyperlinked [words like these](#) will link to external resources like YouTube videos or other guides. Some information is best conveyed through these means.
+
+As of the writing of this post, the base game on Steam has 36 achievements. Some of these can be contributed to from any mission (e.g. ***They Wear Red Bandanas: Kill 75 Long Coats***) while others can only be done on certain missions (e.g. ***Lost and Found: Return the money to the bank***). This guide will go through the main story on a playthrough-by-playthrough basis mainly focussing on the latter, with an emphasis on 
+* ***Sheriff's Badge: Earn 90 badges***: 14 out of the 16 main story missions have eight badges each. This gives us a total of 112 badges, out of which we must earn 90. Not all of the badges are equally easy to earn however, so I have chosen what are, in my opinion, the easiest ones to get for each mission. Note that all of the fourteen missions have <u>Complete the mission on Hard difficulty.</u> and <u>Speedrun: Complete the mission in under xx:xx minutes</u>. I've elected to always do the former, and only include the latter if there is a suitably easy strategy.
+* ***Seasoned Bounty Hunter: Kill 15 of the hidden Mimimi devs*** and ***Veteran Bounty Hunter: Kill 31 hidden Mimimi devs***: The 'hidden Mimimi devs' are named NPCs which are found in out-of-the-way spots on most maps. [This guide](https://www.trueachievements.com/a298714/veteran-bounty-hunter-achievement) shows all of their locations.
+
+Each playthrough section will be coloured <span class="normal-difficulty">like so</span> if the difficulty is 'Normal' and <span class="hard-difficulty">like so</span> if the difficulty is 'Hard'. There will also be farming tips for some of the mission-agnostic achievements, if applicable.
+
 <nav>
-  <h4 id="navigation">Navigation</h4>
-  * this unordered seed list will be replaced by toc as unordered list
+  <h3 id="navigation">Navigation</h3>
+  1. this unordered seed list will be replaced by toc as unordered list
   {:toc}
 </nav>
 
-## Natural Achievements
+<!-- ## Natural Achievements
 
 All the natural achievements are listed here. Some farming techniques have also been provided in case you're falling short. For all of these techniques, it suffices to create a quicksave just a second before the event, then reloading this over and over again until the desired number has been reached. For example, if farming for *Doubleshot*, use Showdown mode to make Cooper target two guards, then quicksave, then execute the action. After that, just reload the quicksave and execute it again over and over. Even though you're killing the same guards again and again, it still counts as separate kills in Steam achievements.
 
@@ -86,12 +98,23 @@ All the natural achievements are listed here. Some farming techniques have also 
     </tr>
 </table>
 
-## Specific Achievements
+## Specific Achievements -->
 
 This section will focus on the other achievements, proceeding in a mission-by-mission manner. Each mission section will focus on badges (for *Sheriff's Badge: Earn 90 badges.*), [the Mimimi dev NPCs](https://www.trueachievements.com/a298714/veteran-bounty-hunter-achievement) (for *Seasoned Bounty Hunter: Kill 15 of the hidden Mimimi devs.* and *Veteran Bounty Hunter: Kill 31 hidden Mimimi devs.*), and any secret achievements.
 
-### On The Hunt
-<table>
+## On The Hunt
+This mission has no badges or Mimimi devs, but has a few secret achievements.
+
+<h4 class="normal-difficulty">Playthrough #1</h4>
+* Achieve ***[Lindberg and Hutch: Decide the outcome of a duel]("https://www.youtube.com/watch?v=esaBl_teFSI")***.
+* Achieve ***[Sorry, Dad!: Knock out your father]("https://www.youtube.com/watch?v=jWd_AASN5QE")***.
+
+<p style="text-align: right; font-size: 12px;">[Back to Navigation](#navigation)</p>
+
+
+
+
+<!-- <table>
     <colgroup>
       <col span="1" style="width: 15%;">
       <col span="1" style="width: 85%;">
@@ -118,7 +141,7 @@ This section will focus on the other achievements, proceeding in a mission-by-mi
         <td><i>Notes</i></td>
         <td>None</td>
     </tr>
-</table>
+</table> -->
 
 
 ### Byers Pass
@@ -612,14 +635,14 @@ Follow the route in the speedrun video linked above, with a small change to earn
 * Earn <u>Don't let anyone see you</u>. The 22 minutes for the speedrun badge is more than enough to execute this route. Thus, take your time and avoid being spotted.
 * Earn <u>Use mind control on Devitt's character</u>; this is automatically achieved by this route. Note that some online guides say that this badge cannot be earned unless one of the distractions has been used and DeVitt is alone with his men - this is **false** (at least as of writing this post); you can get it at any point.
 * Earn <u>Kill 2 guards with a statue</u>. Immediately after relinquishing mind-control on DeVitt and securing him, use Hector to drop the statue in the courtyard onto the guard and the Long Coat. If you miss a rotation, don't worry; you have enough time to do this and still get the speedrun badge.
-* Earn <u>Speedrun: Complete the mission in under 22:00 minutes</u>. Make sure you have memorized everything that each character has to do. Play smoothly and calmly; you have enough time. The last section is a little finnicky; I found that connecting a few guards and then using Stella on them helps.
+* Earn <u>Speedrun: Complete the mission in under 22:00 minutes</u>. Make sure you have memorized everything that each character has to do. Play smoothly and calmly; you have enough time. The last section is a little finnicky; I found that connecting a few guards and then using `Stella` on them helps.
 
 <h4 class="hard-difficulty">Playthrough #2</h4>
 Follow the same route as earlier, but with more substantial changes. If you didn't get the speedrun badge, I recommend trying again in normal mode and doing this playthrough without time pressure. Make sure to make a **manual save** before finishing this playthrough; continue reading for more details.
 
 * Earn <u>Don't touch any bushes or haystacks</u>. Follow the same route as earlier, but make sure to not touch any bushes or haystacks. This makes Isabelle and Hector's section slightly more complicated.
-* Earn <u>Don't use any of Kate's or Cooper's skills</u>. This is easier than it looks, since neither of them actually do anything in this mission. Note that Cooper's tying up of a unconscious person counts as a 'skill'. Both Kate and him can still carry bodies, however. In the last section, use Hector and Isabelle to kill all guards and knock out all civilians.
-* Earn <u>Complete the mission on Hard difficulty</u> by completing the mission.
+* Earn <u>Don't use any of Kate's or Cooper's skills</u>. This is easier than it looks, since neither of them actually do much on this route. Substitute Cooper's kills with Isabelle and `Connect`, and Kate's `Perfume` with `Stella`. Note that Cooper's tying up of a unconscious person counts as a 'skill'. Both Kate and him can still carry bodies, however. In the last section, use Hector and Isabelle to kill all guards and knock out all civilians.
+* Earn <u>Complete the mission on Hard difficulty</u> by completing this playthrough.
 * Once you've earned the three badges above, reload your **manual save** and backtrack with Cooper to kill the two [Mimimi developer NPCs]("https://www.trueachievements.com/a298714/veteran-bounty-hunter-achievement") at the very beginning of the level.
 
 <p style="text-align: right; font-size: 12px;">[Back to Navigation](#navigation)</p>
