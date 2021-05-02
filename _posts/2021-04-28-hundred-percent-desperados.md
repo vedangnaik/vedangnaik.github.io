@@ -145,7 +145,7 @@ Get the disguise for this playthrough if you wish.
 
 
 ## O'Hara Ranch
-This mission has a pretty straightforward [speedrun strategy](https://www.youtube.com/watch?v=TYcpPkJNkAk), executed by speedrunner *Optibum*. Thus, the speedrun badge will be included. At the end of these playthroughs, you should have **27/90** badges.
+This mission has a pretty straightforward [speedrun strategy](https://www.youtube.com/watch?v=TYcpPkJNkAk), executed here by speedrunner *Optibum*. Thus, the speedrun badge will be included. At the end of these playthroughs, you should have **27/90** badges.
 
 <h4 class="hard-difficulty">Playthrough #1</h4>
 This is the non-speedrun playthrough. In any case, try to follow the same route to get a feel for it.
@@ -437,7 +437,7 @@ This is not a level I enjoyed playing, so I apologize in advance if the playthro
 
 
 ## A Captain Of Industry
-This mission actually has a normal-difficulty [speedrun strategy](https://www.youtube.com/watch?v=UovLY9SbneY) that is very simple to execute. By making small tweaks here and there to this route, you can very easily earn all eight badges inside 30 minutes.
+This mission has a very easy [speedrun strategy](https://www.youtube.com/watch?v=UovLY9SbneY), executed here by *Optibum* again. Thus, the speedrun badge will be included. In fact, by making small tweaks here and there to this route, you can very easily earn all eight badges inside 30 minutes. After these playthroughs you should have **TODO/90** badges.
 
 <h4 class="normal-difficulty">Playthrough #1</h4>
 This is the speedrun playthough; the time limit is generous enough that it can be done first time, along with with a small change to earn an extra badge.
