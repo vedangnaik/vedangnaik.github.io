@@ -11,6 +11,10 @@ title: "On Techniques for Efficient 100% Steam Achievements in Desperados III"
         .hard-difficulty {
             color: red;
         }
+        .navigation-link {
+            text-align: right;
+            font-size: 12px;
+        }
     </style>
 </head>
 
@@ -34,74 +38,27 @@ As of the writing of this post, the base game on Steam has 36 achievements. Some
 
 Each playthrough section will be coloured <span class="normal-difficulty">like so</span> if the difficulty is 'Normal' and <span class="hard-difficulty">like so</span> if the difficulty is 'Hard'. There will also be farming tips for some of the mission-agnostic achievements, if applicable. For these farming techniques, it suffices to create a quicksave just a second before the event, then reloading this over and over again until the desired number has been reached. For example, if farming for ***Doubletime: Kill 200 guards using Cooper's double shot***, use Showdown mode to make Cooper target two guards, then quicksave, then execute the action. After that, just reload the quicksave and execute it again over and over. Even though you're killing the same guards again and again, it still counts as separate kills in Steam achievements.
 
+<!-- <tr>
+    <td><i>Out of Sight, Out of Mind: Hide 250 bodies.</i></td>
+    <td>Any mission with all five characters allows one to use Showdown mode to hide six bodies at once (two at a time with Hector).</td>
+</tr>
+<tr>
+    <td><i>Maneater Shrub: Hide 750 bodies.</i></td>
+    <td>Same as above.</td>
+</tr>>
+<tr>
+    <td><i>Puppet Master: Mind control 25 guards with Isabelle.</i></td>
+    <td>The guard at the start of <b>Louisiana Voodoo</b> is likely the most convenient location for this.</td>
+</tr> -->
+
 <nav>
   <h3 id="navigation">Navigation</h3>
   1. this unordered seed list will be replaced by toc as unordered list
   {:toc}
 </nav>
+<br><br>
 
-<!-- ## Natural Achievements
 
-All the natural achievements are listed here. Some farming techniques have also been provided in case you're falling short. For all of these techniques, 
-
-<table>
-    <colgroup>
-      <col span="1" style="width: 30%;">
-      <col span="1" style="width: 70%;">
-    </colgroup>
-    <tr style="text-align: center">
-        <th>Achievement</th>
-        <th>Farming Technique</th>
-    </tr>
-    <tr>
-        <td><i>Out of Sight, Out of Mind: Hide 250 bodies.</i></td>
-        <td>Any mission with all five characters allows one to use Showdown mode to hide six bodies at once (two at a time with Hector).</td>
-    </tr>
-    <tr>
-        <td><i>Maneater Shrub: Hide 750 bodies.</i></td>
-        <td>Same as above.</td>
-    </tr>
-    <tr>
-        <td><i>Another One Bites the Dust: Kill 500 guards.</i></td>
-        <td>The simultaneous kill of Frank and the circle of guards at the end of <b>The Old and the New</b> is probably the best 'story' location for this. Otherwise, you can place as many guards as you can find on an oil puddle in <b>O'Hara Ranch</b>, set them on fire, and rinse and repeat to batch-complete this achievement.</td>
-    </tr>
-    <tr>
-        <td><i>Someone Call the Undertaker: Kill 1,000 guards.</i></td>
-        <td>Same as above.</td>
-    </tr>
-    <tr>
-        <td><i>Watch Out Below!: Kill 50 guards using the environment.</i></td>
-        <td>The loose logs at the sawmill in <b>The Bridge at Eagle Falls</b> is likely the best place to do this. Kate's disguise is fairly easy to get and after that walking to the sawmill and triggering the trap is straightforward.</td>
-    </tr>
-    <tr>
-        <td><i>They Wear Red Bandanas: Kill 75 Long Coats.</i></td>
-        <td>The Long Coat tutorial at the start of <b>Troublemakers in Flagstone</b> is probably the best location for this.</td>
-    </tr>
-    <tr>
-        <td><i>Damn Good Marksman: Snipe 50 guards with McCoy.</i></td>
-        <td>The three guards at the beginning of <b>The Bridge at Eagle Falls</b> are a good candidate for doing both this achievement and <i>Doubleshot</i> at once.</td>
-    </tr>
-    <tr>
-        <td><i>Puppet Master: Mind control 25 guards with Isabelle.</i></td>
-        <td>The guard at the start of <b>Louisiana Voodoo</b> is likely the most convenient location for this.</td>
-    </tr>
-    <tr>
-        <td><i>Good Girl: Kill 75 guards with Bianca.</i></td>
-        <td>The Bianca tutorial at the start of <b>Troublemakers in Flagstone</b> is probably the best location for this. Note that you do not have to wait for the Bianca animation to finish. Steam will notify you on every twenty-fifth kill.</td>
-    </tr>
-    <tr>
-        <td><i>Doubletime: Kill 200 guards using Cooper's double shot.</i></td>
-        <td><b>Byers Pass</b> has multiple good locations for this achievement specifically. Note that you don't have to wait for the guards' shooting animation to finish. Steam will notify you on every twentieth kill.</td>
-    </tr>
-    <tr>
-        <td><i>Follow Me Darling: Make guards follow Kate for 1,000 meters total.</i></td>
-        <td><b>Back Alley Jazz</b> is likely the best mission for this since the disguise can be obtained within minutes of starting and there are multiple guards open to repeated luring. Make sure to use the fast-forward functionality to speed this up. Steam will notify you on every fiftieth metre.</td>
-    </tr>
-</table>
-
-## Specific Achievements -->
-
-This section will focus on the other achievements, proceeding in a mission-by-mission manner. Each mission section will focus on badges (for *Sheriff's Badge: Earn 90 badges.*), [the Mimimi dev NPCs](https://www.trueachievements.com/a298714/veteran-bounty-hunter-achievement) (for *Seasoned Bounty Hunter: Kill 15 of the hidden Mimimi devs.* and *Veteran Bounty Hunter: Kill 31 hidden Mimimi devs.*), and any secret achievements.
 
 ## On The Hunt
 This mission has no badges or Mimimi devs, but has a few secret achievements.
@@ -111,7 +68,7 @@ This mission has no badges or Mimimi devs, but has a few secret achievements.
 * Achieve ***[Lindberg and Hutch: Decide the outcome of a duel]("https://www.youtube.com/watch?v=esaBl_teFSI")***.
 * Achieve ***[Sorry, Dad!: Knock out your father]("https://www.youtube.com/watch?v=jWd_AASN5QE")***.
 
-<p style="text-align: right; font-size: 12px;">[Back to Navigation](#navigation)</p>
+<p class="navigation-link">[Back to Navigation](#navigation)</p><br>
 
 
 
@@ -133,12 +90,12 @@ This is probably the easiest mission to complete in Desperado difficulty, so the
 <h4 class="normal-difficulty">Playthrough #2</h4>
 
 * Earn <u>Don't save during the mission</u>. You can explicitly set the number of saves to 'None' in the difficulty options if you reflexively save like I do 😂. Go slowly and ensure that you can safely proceed. It's not the end of the run if you trigger an alert however: just wait it out.
-* Earn <u>Don't use firearms</u>. This is fairly straightforward. Rely on McCoy's `Bag` and Cooper's `Knife`. Note that for pairs, Cooper can use `Knife` on one guard and immediately `Knockout` the other.
+* Earn <u>Don't use firearms</u>. This is fairly straightforward. Rely on McCoy's `Bag` and Cooper's `Knife`. Note that for pairs, Cooper can use `Knife` on one guard and immediately knock out the other.
 
 <h4 style="color:purple">Playthrough #3</h4>
 * Achieve ***Hardcore: Finish a mission on "Desperado" difficulty*** by completing this mission in 'Desperado' difficulty.
 
-<p style="text-align: right; font-size: 12px;">[Back to Navigation](#navigation)</p>
+<p class="navigation-link">[Back to Navigation](#navigation)</p><br>
 
 
 
@@ -153,6 +110,7 @@ At the end of these playthroughs, you should have **14/90** badges.
 * Earn <u>Listen in on 10 private conversations</u>. The various conversations are marked by comic-book speech bubbles.
 * Earn <u>Complete the mission on Hard difficulty</u> by completing this playthrough.
 * Kill the [two Mimimi developer NPCs](https://www.trueachievements.com/a298714/veteran-bounty-hunter-achievement).
+* [Optional] Farm for ***They Wear Red Bandanas: Kill 75 Long Coats***.
 
 <h4 class="normal-difficulty">Playthrough #2</h4>
 
@@ -160,7 +118,7 @@ At the end of these playthroughs, you should have **14/90** badges.
 * Earn <u>Don't kill or knock out anyone in the train track area</u>. This doesn't apply to McBane, in case you were wondering.
 * Earn <u>Don't touch any bushes or haystacks</u>. This isn't as hard as it sounds. Approach Wild Marge's building from the right, and Jarvis' area from the left.
 
-<p style="text-align: right; font-size: 12px;">[Back to Navigation](#navigation)</p>
+<p class="navigation-link">[Back to Navigation](#navigation)</p><br>
 
 
 
@@ -182,7 +140,7 @@ Get the disguise for this playthrough if you wish.
 * Earn <u>Don't use a disguise</u>. This isn't as hard as it sounds; you just have to be careful and use Kate's perfume cleverly.
 * Earn <u>Kill 15 guards with the Gatling Gun</u>. Since you don't have the disguise, you have my green light to use the gun 😎.
 
-<p style="text-align: right; font-size: 12px;">[Back to Navigation](#navigation)</p>
+<p class="navigation-link">[Back to Navigation](#navigation)</p><br>
 
 
 
@@ -199,7 +157,7 @@ This is the non-speedrun playthrough. In any case, try to follow the same route 
 * Achieve ***[M-M-M-M-MONSTER KILL: Kill 6 guards at once using only a single skill](https://www.trueachievements.com/a298714/veteran-bounty-hunter-achievement)*** by placing some knocked-out guards in a pile and then using Hector's `Sawed-off` on them.
 * Earn <u>Complete the mission on Hard difficulty</u> by completing this playthrough.
 * Kill the [two Mimimi developer NPCs](https://www.trueachievements.com/a298714/veteran-bounty-hunter-achievement).
-* [Optional] Farm for ***Good Girl: Kill 75 guards with Bianca***.
+* [Optional] Farm for ***Good Girl: Kill 75 guards with Bianca***, ***Another One Bites the Dust: Kill 500 guards*** and ***Someone Call the Undertaker: Kill 1,000 guards***.
 
 <h4 class="normal-difficulty">Playthrough #2</h4>
 This is the speedrun playthrough.
@@ -207,7 +165,7 @@ This is the speedrun playthrough.
 * Earn <u>Win the bet with McCoy</u>. The speedrun route relies heavily on McCoy, so you should earn this naturally.
 * Earn <u>Speedrun: complete the mission in under 17:00 minutes</u>. Make sure you have adequately memorized what each character is supposed to do. Play smoothly and calmly; 17 minutes is more than enough time for this route. Optimbum makes some risky plays to avoid waiting for guard rotations, but you can afford to wait for them.
 
-<p style="text-align: right; font-size: 12px;">[Back to Navigation](#navigation)</p>
+<p class="navigation-link">[Back to Navigation](#navigation)</p><br>
 
 
 
@@ -227,9 +185,9 @@ At the end of these playthroughs, you should have **33/90** badges.
 
 * Earn <u>Get the dynamite from the shooting range</u>.
 * Earn <u>Kill 3 guards with rolling logs</u>. The logs are near the sawmill adjacent to the shooting range. With her Disguise, Kate can easily walk there and release the logs undetected.
-* [Optional] Farm for ***Follow Me Darling: Make guards follow Kate for 1,000 meters total***.
+* [Optional] Farm for ***Follow Me Darling: Make guards follow Kate for 1,000 meters total*** and ***Watch Out Below!: Kill 50 guards using the environment***.
 
-<p style="text-align: right; font-size: 12px;">[Back to Navigation](#navigation)</p>
+<p class="navigation-link">[Back to Navigation](#navigation)</p><br>
 
 
 
@@ -241,57 +199,38 @@ This mission has no badges or secret achievements, but has a single Mimimi dev.
 
 * Kill the [Mimimi developer NPC](https://www.trueachievements.com/a298714/veteran-bounty-hunter-achievement).
 
-<p style="text-align: right; font-size: 12px;">[Back to Navigation](#navigation)</p>
+<p class="navigation-link">[Back to Navigation](#navigation)</p><br>
 
 
 
 
 ## One Hell of a Night
-<table>
-    <colgroup>
-      <col span="1" style="width: 15%;">
-      <col span="1" style="width: 85%;">
-    </colgroup>
-    <tr>
-        <td><i>Badges</i></td>
-        <td>
-            After this mission, we will have <b>36/90</b> badges.
-            <ol>
-                <li><u>Return the money to the bank</u>: <b>Important!</b> This is an easy badge to lock yourself out of. At the very start of the mission, use Hector to knock out the woman outside the hut. She'll drop the money, which Hector can pick up. Drop this onto the floor of the bank in the same room where McCoy is being held to get the badge. If you wait until after you rescue McCoy, she will disappear and the badge will no longer be obtainable.</li>
-                <li><u>Free Doc before waking up the others</u>: This is easier than is appears; see the <i>Notes</i> section for details.</li>
-                <li><u>Don't use a disguise</u>: This is easier than is appears; see the <i>Notes</i> section for details.</li>
-                <li><u>Kill 6 guards</u>: You can throw guards into the water to kill them. You can also kill up to 3 guards using the cannon in the middle of the level.</li>
-                <li><u>Don't use the bank's backdoor</u>: The 'back door' refers to the entrance from the construction area. Again, this is easier than it appears; see the <i>Notes</i> section for details.</li>
-                <li><u>Make a guard follow your footprints for 50 meters</u>: This requires a bit of timing, but can be done immediately at the very beginning of the level. Lure the guard near the water tower. Use the incline the hut is on to break his line of sight, and keep circling around the cliff until the badge notification appears.</li>
-                <li><u>Complete the mission on Hard difficulty</u>: Self-explanatory.</li>
-            </ol>
-        </td>
-    </tr>
-    <tr>
-        <td><i>Mimimi devs</i></td>
-        <td><a href="https://www.trueachievements.com/a298714/veteran-bounty-hunter-achievement">Three</a></td>
-    </tr>
-    <tr>
-        <td><i>Secret achievements</i></td>
-        <td>
-            <a href="https://www.youtube.com/watch?v=9-tsCaqHAOM"><i>Need a Dentist?: Find a patient for the dentist.</i></a>
-        </td>
-    </tr>
-    <tr>
-        <td><i>Notes</i></td>
-        <td>
-            <ul>
-                <li><b>Important!</b> This is a general tip, but makes this level extremely easy. A knocked-out and tied up guard will lure <i>any enemy</i> (yes, even Ponchos and Long Coats). Furthermore, they will <i>not</i> sound the alarm until after they untie the guard. This can be abused beyond belief in this level and makes Hector very overpowered; in fact, all 7 badges listed can be done in a <i>single</i> playthrough. This 'mechanic' is a by-product of the NPC AI, and has been <a href="https://www.youtube.com/watch?v=QupN4qDG3Oc">acknowledged by the developers</a> as something which can be abused.</li>
-                <li>I noticed that McCoy's bag had somehow dropped, despite McCoy himself not being conscious. I'm not sure if this is a bug or not.</li>
-                <li>If you return the money before waking up Kate, her dialog still plays even though she's unconscious.</li>
-            </ul>
-        </td>
-    </tr>
-</table>
+There is a mechanic in the game wherein a *unconscious, tied-up* guard will lure *any guard* (even Ponchos and Long Coats) and furthermore, the lured guard(s) will not raise the alarm until *after* they've untied their friend. This, along with the footsteps-in-the-mud mechanic, and Hector's ability to carry, run, and throw bodies makes him *extremely overpowered* in this level. So much so, in fact, that's its possible to get all 7 badges in a single playthrough! At the end of this playthrough, you should have **40/90** badges.
+
+<h4 class="hard-difficulty">Playthrough #1</h4>
+
+* Earn <u>Return the money to the bank</u>. <b>Important!</b> This is an easy badge to lock yourself out of. At the very start of the mission, use Hector to knock out the woman outside the hut. She'll drop the money, which Hector can pick up. Drop this onto the floor of the bank in the same room where McCoy is being held to get the badge. If you wait until after you rescue McCoy, she will disappear and the badge will no longer be obtainable.
+* Earn <u>Free Doc before waking up the others</u>. This is quite easy since almost every guard in the vicinity can be lured away.
+* Earn <u>Don't use a disguise</u>. In fact, Kate doesn't even need to do anything at all.
+* Earn <u>Kill 6 guards</u>. You can throw guards into the water to kill them. You can also kill up to 3 guards using the cannon in the middle of the level.
+* Earn <u>Don't use the bank's backdoor</u>. The 'backdoor' refers to the entrance from the construction area.
+* Earn <u>Make a guard follow your footprints for 50 meters</u>. This requires a bit of timing, but can be done immediately at the very beginning of the mission. Lure the guard near the water tower. Use the incline the hut is on to break his line of sight, and keep circling around it until you receive the badge.
+* Earn <u>Complete the mission on Hard difficulty</u> by completing this playthrough.
+* Achieve ***[Need a Dentist?: Find a patient for the dentist](https://www.youtube.com/watch?v=9-tsCaqHAOM)***. This is best done at the end after you've cleared most of the map.
+* Kill the [three Mimimi developer NPCs](https://www.trueachievements.com/a298714/veteran-bounty-hunter-achievement).
+
+<p class="navigation-link">[Back to Navigation](#navigation)</p><br>
 
 
-### Louisiana Voodoo
-<table>
+
+
+## Louisiana Voodoo
+
+> TODO!
+
+<p class="navigation-link">[Back to Navigation](#navigation)</p><br>
+
+<!-- <table>
     <colgroup>
       <col span="1" style="width: 15%;">
       <col span="1" style="width: 85%;">
@@ -329,11 +268,18 @@ This mission has no badges or secret achievements, but has a single Mimimi dev.
             </ul>
         </td>
     </tr>
-</table>
+</table> -->
 
 
-### Back Alley Jazz
-<table>
+
+
+## Back Alley Jazz
+
+> TODO!
+
+<p class="navigation-link">[Back to Navigation](#navigation)</p><br>
+
+<!-- <table>
     <colgroup>
       <col span="1" style="width: 15%;">
       <col span="1" style="width: 85%;">
@@ -370,11 +316,18 @@ This mission has no badges or secret achievements, but has a single Mimimi dev.
             </ul>
         </td>
     </tr>
-</table>
+</table> -->
 
 
-### Burn the Queen
-<table>
+
+
+## Burn the Queen
+
+> TODO!
+
+<p class="navigation-link">[Back to Navigation](#navigation)</p><br>
+
+<!-- <table>
     <colgroup>
       <col span="1" style="width: 15%;">
       <col span="1" style="width: 85%;">
@@ -410,51 +363,39 @@ This mission has no badges or secret achievements, but has a single Mimimi dev.
             </ul>
         </td>
     </tr>
-</table>
+</table> -->
 
 
-### Dirt and Blood
-<table>
-    <colgroup>
-      <col span="1" style="width: 15%;">
-      <col span="1" style="width: 85%;">
-    </colgroup>
-    <tr>
-        <td><i>Badges</i></td>
-        <td>
-            After this mission, we will have <b>59/90</b> badges.
-            <ol>
-                <li><u>Choose the path on the left</u>: This badge cannot be done simultaneously with badge #2. Note that the 'path' isn't locked until any character reaches the last stretch of street before the meeting point.</li>
-                <li><u>Choose the path on the left</u>: Same as above.</li>
-                <li><u>Don't use a disguise</u>: This is easier than it looks.</li>
-                <li><u>Kill 3 guards using the steamer wheel</u>: The steamer wheel environmental trap is in the pier on the left path. On Hard difficulty, 3 guards are already in the path of the wheel. Hence, it's best to combine this with badges #6, #3, and #1.</li>
-                <li><u>Kill all Long Coats.</u>: Self-explanatory.</li>
-                <li><u>Complete the mission on Hard difficulty</u>: Self-explanatory.</li>
-            </ol>
-        </td>
-    </tr>
-    <tr>
-        <td><i>Mimimi devs</i></td>
-        <td><a href="https://www.trueachievements.com/a298714/veteran-bounty-hunter-achievement">Two</a></td>
-    </tr>
-    <tr>
-        <td><i>Secret achievements</i></td>
-        <td>None</td>
-    </tr>
-    <tr>
-        <td><i>Notes</i></td>
-        <td>
-            <ul>
-                <li>If you're feeling particularly masochistic, you can try doing one of badge #1 and #2 alongside <u>Don't use any of Cooper's skills</u> and the other badges to finish all 6 badges in a single playthrough.</li>
-                <li><b>Important!</b> This is a general tip for all levels with Hector. Hector can use bodies to knock out your <i>other</i> characters, then pick them up and throw them over short obstacles. In levels like these where piles of boxes and head-height fences block of multiple paths, this can be used to essentially 'skip' section of the level, or tackle them from behind.</li>
-            </ul>
-        </td>
-    </tr>
-</table>
 
 
-### A Cart Full Of Gunpowder
-<table>
+## Dirt and Blood
+This is not a level I enjoyed playing, so I apologize in advance if the playthroughs below aren't as efficient as they could be. Regardless, after these playthroughs you should have **TODO/90** badges.
+
+<h4 class="hard-difficulty">Playthrough #1</h4>
+
+* Earn <u>Kill 3 guards using the steamer wheel</u>. I arbitrarily decided to do this first, but it may be easier with the disguise.
+* Earn <u>Choose the path on the left</u>: The steamer wheel from the previous badge is is in the pier on the left side of the map. Note that the 'path' isn't locked until any character reaches the last stretch of street before the meeting point.
+* Earn <u>Don't use a disguise</u>. The left side route is quite tedious without the disguise, but it's doable. I think the right side may be easier without the disguise, but I didn't play that to confirm.
+* Earn <u>Complete the mission on Hard difficulty</u> by completing this playthrough.
+
+<h4 class="normal-difficulty">Playthrough #2</h4>
+
+* Earn <u>Choose the path on the right</u>.
+* Earn <u>Kill all Long Coats</u>. Make sure to use the disguise to simplify this.
+* Kill the [two Mimimi developer NPCs](https://www.trueachievements.com/a298714/veteran-bounty-hunter-achievement).
+
+<p class="navigation-link">[Back to Navigation](#navigation)</p><br>
+
+
+
+
+## A Cart Full Of Gunpowder
+
+> TODO!
+
+<p class="navigation-link">[Back to Navigation](#navigation)</p><br>
+
+<!-- <table>
     <colgroup>
       <col span="1" style="width: 15%;">
       <col span="1" style="width: 85%;">
@@ -490,13 +431,16 @@ This mission has no badges or secret achievements, but has a single Mimimi dev.
         </td>
     </tr>
 </table>
-<p style="text-align: right; font-size: 12px;">[Back to Navigation](#navigation)</p>
+<p class="navigation-link">[Back to Navigation](#navigation)</p><br> -->
 
-### A Captain Of Industry
+
+
+
+## A Captain Of Industry
 This mission actually has a normal-difficulty [speedrun strategy](https://www.youtube.com/watch?v=UovLY9SbneY) that is very simple to execute. By making small tweaks here and there to this route, you can very easily earn all eight badges inside 30 minutes.
 
 <h4 class="normal-difficulty">Playthrough #1</h4>
-Follow the route in the speedrun video linked above, with a small change to earn an extra badge.
+This is the speedrun playthough; the time limit is generous enough that it can be done first time, along with with a small change to earn an extra badge.
 
 * Earn <u>Don't use both distractions</u>; this is automatically achieved by this route.
 * Earn <u>Don't let anyone see you</u>. The 22 minutes for the speedrun badge is more than enough to execute this route. Thus, take your time and avoid being spotted.
@@ -505,13 +449,13 @@ Follow the route in the speedrun video linked above, with a small change to earn
 * Earn <u>Speedrun: Complete the mission in under 22:00 minutes</u>. Make sure you have memorized everything that each character has to do. Play smoothly and calmly; you have enough time. The last section is a little finnicky; I found that connecting a few guards and then using `Stella` on them helps.
 
 <h4 class="hard-difficulty">Playthrough #2</h4>
-Follow the same route as earlier, but with more substantial changes. If you didn't get the speedrun badge, I recommend trying again in normal mode and doing this playthrough without time pressure. Make sure to make a **manual save** before finishing this playthrough; continue reading for more details.
+This follows the same route as earlier, but with more substantial changes. If you didn't get the speedrun badge, I recommend trying again in normal mode and doing this playthrough without time pressure. Make sure to make a **manual save** before finishing this playthrough; continue reading for more details.
 
 * Earn <u>Don't touch any bushes or haystacks</u>. Follow the same route as earlier, but make sure to not touch any bushes or haystacks. This makes Isabelle and Hector's section slightly more complicated.
 * Earn <u>Don't use any of Kate's or Cooper's skills</u>. This is easier than it looks, since neither of them actually do much on this route. Substitute Cooper's kills with Isabelle and `Connect`, and Kate's `Perfume` with `Stella`. Note that Cooper's tying up of a unconscious person counts as a 'skill'. Both Kate and him can still carry bodies, however. In the last section, use Hector and Isabelle to kill all guards and knock out all civilians.
 * Earn <u>Complete the mission on Hard difficulty</u> by completing this playthrough.
-* Once you've earned the three badges above, reload your **manual save** and backtrack with Cooper to kill the two [Mimimi developer NPCs]("https://www.trueachievements.com/a298714/veteran-bounty-hunter-achievement") at the very beginning of the level.
+* Once you've earned the three badges above, reload your **manual save** and backtrack with Cooper to kill the [two Mimimi developer NPCs]("https://www.trueachievements.com/a298714/veteran-bounty-hunter-achievement").
 
-<p style="text-align: right; font-size: 12px;">[Back to Navigation](#navigation)</p>
+<p class="navigation-link">[Back to Navigation](#navigation)</p><br>
 
-> This post is in progress! Check back soon.
+> This post is a work-in-progress. Check back soon!
