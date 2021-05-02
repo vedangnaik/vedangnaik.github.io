@@ -30,7 +30,7 @@ With that in mind, let's begin. First, some terminology:
 
 As of the writing of this post, the base game on Steam has 36 achievements. Some of these can be contributed to from any mission (e.g. ***They Wear Red Bandanas: Kill 75 Long Coats***) while others can only be done on certain missions (e.g. ***Lost and Found: Return the money to the bank***). This guide will go through the main story on a playthrough-by-playthrough basis mainly focussing on the latter, with an emphasis on 
 * ***Sheriff's Badge: Earn 90 badges***: 14 out of the 16 main story missions have eight badges each. This gives us a total of 112 badges, out of which we must earn 90. Not all of the badges are equally easy to earn however, so I have chosen what are, in my opinion, the easiest ones to get for each mission. Note that all of the fourteen missions have <u>Complete the mission on Hard difficulty.</u> and <u>Speedrun: Complete the mission in under xx:xx minutes</u>. I've elected to always do the former, and only include the latter if there is a suitably easy strategy.
-* ***Seasoned Bounty Hunter: Kill 15 of the hidden Mimimi devs*** and ***Veteran Bounty Hunter: Kill 31 hidden Mimimi devs***: The 'hidden Mimimi devs' are named NPCs which are found in out-of-the-way spots on most maps. [This guide](https://www.trueachievements.com/a298714/veteran-bounty-hunter-achievement) shows all of their locations.
+* ***Seasoned Bounty Hunter: Kill 15 of the hidden Mimimi devs*** and ***Veteran Bounty Hunter: Kill 31 hidden Mimimi devs***: The 'hidden Mimimi devs' are named NPCs which are found in out-of-the-way spots on most maps. [This guide](https://www.trueachievements.com/a298714/veteran-bounty-hunter-achievement) shows all of their locations. It suffices to just kill them and wait a few moments; you don't have to finish the mission to have the kill count.
 
 Each playthrough section will be coloured <span class="normal-difficulty">like so</span> if the difficulty is 'Normal' and <span class="hard-difficulty">like so</span> if the difficulty is 'Hard'. There will also be farming tips for some of the mission-agnostic achievements, if applicable. For these farming techniques, it suffices to create a quicksave just a second before the event, then reloading this over and over again until the desired number has been reached. For example, if farming for ***Doubletime: Kill 200 guards using Cooper's double shot***, use Showdown mode to make Cooper target two guards, then quicksave, then execute the action. After that, just reload the quicksave and execute it again over and over. Even though you're killing the same guards again and again, it still counts as separate kills in Steam achievements.
 
@@ -107,6 +107,7 @@ This section will focus on the other achievements, proceeding in a mission-by-mi
 This mission has no badges or Mimimi devs, but has a few secret achievements.
 
 <h4 class="normal-difficulty">Playthrough #1</h4>
+
 * Achieve ***[Lindberg and Hutch: Decide the outcome of a duel]("https://www.youtube.com/watch?v=esaBl_teFSI")***.
 * Achieve ***[Sorry, Dad!: Knock out your father]("https://www.youtube.com/watch?v=jWd_AASN5QE")***.
 
@@ -119,6 +120,7 @@ This mission has no badges or Mimimi devs, but has a few secret achievements.
 This is probably the easiest mission to complete in Desperado difficulty, so the last playthrough will focus on that. At the end of these playthroughs, you should have **7/90** badges.
 
 <h4 class="hard-difficulty">Playthrough #1</h4>
+
 * Achieve ***[The Picnic: Enjoy some cupcakes during a picnic](https://www.youtube.com/watch?v=esaBl_teFSI)***.
 * Shoot the first golden chicken for ***[Chicken Dinner: Kill all 3 golden chickens](https://guides.gamepressure.com/desperados-iii/guide.asp?ID=58096)***.
 * Earn <u>Save all groups of civilians</u>. This is straightforward, except for the last civilian being interrogated by Big Ann: you must move quickly to kill her before she kills him.
@@ -126,14 +128,15 @@ This is probably the easiest mission to complete in Desperado difficulty, so the
 * Earn <u>Kill 10 bandits using dynamite</u>. Just make sure to leave enough guards alive for this by the end.
 * Earn <u>Distract 3 bandits at the same time using Cooper's coin</u> by tossing a coin at the three bandits standing under the big rock.
 * Earn <u>Complete the mission on Hard difficulty</u> by completing this playthrough.
-* If necessary, farm for ***Doubletime: Kill 200 guards using Cooper's double shot*** and ***Damn Good Marksman: Snipe 50 guards with McCoy***.
+* [Optional] Farm for ***Doubletime: Kill 200 guards using Cooper's double shot*** and ***Damn Good Marksman: Snipe 50 guards with McCoy***.
 
 <h4 class="normal-difficulty">Playthrough #2</h4>
+
 * Earn <u>Don't save during the mission</u>. You can explicitly set the number of saves to 'None' in the difficulty options if you reflexively save like I do 😂. Go slowly and ensure that you can safely proceed. It's not the end of the run if you trigger an alert however: just wait it out.
-* Earn <u>Don't use firearms</u>. This is fairly straightforward. Rely on McCoy's `Bag` and Cooper's 'Knife'. Note that for pairs, Cooper can use `Knife` on one guard and immediately `Knockout` the other.
+* Earn <u>Don't use firearms</u>. This is fairly straightforward. Rely on McCoy's `Bag` and Cooper's `Knife`. Note that for pairs, Cooper can use `Knife` on one guard and immediately `Knockout` the other.
 
 <h4 style="color:purple">Playthrough #3</h4>
-* Play in 'Desperado' difficulty to earn ***Hardcore: Finish a mission on "Desperado" difficulty***.
+* Achieve ***Hardcore: Finish a mission on "Desperado" difficulty*** by completing this mission in 'Desperado' difficulty.
 
 <p style="text-align: right; font-size: 12px;">[Back to Navigation](#navigation)</p>
 
@@ -141,9 +144,10 @@ This is probably the easiest mission to complete in Desperado difficulty, so the
 
 
 ## Troublemakers in Flagstone
-This mission can actually be done quite quickly due to the interaction of guards and alerts with civil zones, so feel free to try out the speedrun badge. At the end of these playthroughs, you should have **14/90** badges.
+At the end of these playthroughs, you should have **14/90** badges.
 
 <h4 class="hard-difficulty">Playthrough #1</h4>
+
 * Earn <u>Make the deaths of 4 targets look like accidents</u>. To do so, poison Wild Marge, provoke the bull to kill Jarvis, drop the church bell onto The Duke, and drop the incomplete building wall onto McBane.
 * Earn <u>Bury Josh</u>. In the church area, there's a NPC named "Josh". After killing him, throw him into the open grave in the church courtyard to earn this.
 * Earn <u>Listen in on 10 private conversations</u>. The various conversations are marked by comic-book speech bubbles.
@@ -151,6 +155,7 @@ This mission can actually be done quite quickly due to the interaction of guards
 * Kill the [two Mimimi developer NPCs](https://www.trueachievements.com/a298714/veteran-bounty-hunter-achievement).
 
 <h4 class="normal-difficulty">Playthrough #2</h4>
+
 * Earn <u>Kill 3 mission targets at the same time</u>. This is a little finnicky, but not overly so. You must poison Wild Marge, and then, the moment her mission indicator becomes green, kill two others. I killed McBane and The Duke with Cooper's dual `Revolvers` from the top of the cliff near the church, but there are alternate methods. Note that this will set of an alert, but you can just wait for it to clear up and then re-enter the civil zone.
 * Earn <u>Don't kill or knock out anyone in the train track area</u>. This doesn't apply to McBane, in case you were wondering.
 * Earn <u>Don't touch any bushes or haystacks</u>. This isn't as hard as it sounds. Approach Wild Marge's building from the right, and Jarvis' area from the left.
@@ -164,6 +169,7 @@ This mission can actually be done quite quickly due to the interaction of guards
 The badges for this level *cannot* be done simultaneously, so we are forced to do multiple playthroughs. At the end of these playthroughs, you should have **20/90** badges.
 
 <h4 class="hard-difficulty">Playthrough #1</h4>
+
 Get the disguise for this playthrough if you wish.
 * Earn <u>Take a photo of the dead groom</u>. **Important!** This is an easy badge to *lock* yourself out of: you must pick up the Mayor's body and throw it down *before* you make Cooper and Kate jump off the balcony. Once they're down, there's no way to go back up there. Afterwards, it's fairly straightforward to carry his body to the camera and take the photo.
 * Earn <u>With Cooper, enter the building through the main balcony door</u>. **Important!** This is another easy badge to lock yourself out of: in the Kate-only part, you must make sure to *unlock the main balcony door* before the cutscene, otherwise Cooper can't enter.
@@ -172,14 +178,16 @@ Get the disguise for this playthrough if you wish.
 * Kill the [two Mimimi developer NPCs](https://www.trueachievements.com/a298714/veteran-bounty-hunter-achievement).
 
 <h4 class="normal-difficulty">Playthrough #2</h4>
-* Earn <u>Don't use a disguises</u>. This isn't as hard as it sounds; you just have to be careful and use Kate's perfume cleverly.
+
+* Earn <u>Don't use a disguise</u>. This isn't as hard as it sounds; you just have to be careful and use Kate's perfume cleverly.
 * Earn <u>Kill 15 guards with the Gatling Gun</u>. Since you don't have the disguise, you have my green light to use the gun 😎.
 
+<p style="text-align: right; font-size: 12px;">[Back to Navigation](#navigation)</p>
 
 
 
 ## O'Hara Ranch
-This mission has a pretty straightforward [speedrun strategy](https://www.youtube.com/watch?v=TYcpPkJNkAk), so the speedrun badge will be included.
+This mission has a pretty straightforward [speedrun strategy](https://www.youtube.com/watch?v=TYcpPkJNkAk), executed by speedrunner *Optibum*. Thus, the speedrun badge will be included. At the end of these playthroughs, you should have **27/90** badges.
 
 <h4 class="hard-difficulty">Playthrough #1</h4>
 This is the non-speedrun playthrough. In any case, try to follow the same route to get a feel for it.
@@ -188,124 +196,57 @@ This is the non-speedrun playthrough. In any case, try to follow the same route 
 * Earn <u>Finish the mission without using a torch</u>. Note that even picking up a torch counts as 'using' it. You can shoot enemies carrying lanterns over oil puddles to light them instead.
 * Earn <u>Win the bet with Hector</u>. If you're paranoid, you can switch McCoy to non-lethal mode.
 * Earn <u>Burn 15 guards in oil puddles</u>. This can be 'manually' done by knocking out 15 guards and using Hector and McCoy to place them on an oil puddle, then lighting it on fire. Make sure to do one set of five to achieve*** Inferno: In the first part of the mission, burn 5 guards at once with oil traps***.
+* Achieve ***[M-M-M-M-MONSTER KILL: Kill 6 guards at once using only a single skill](https://www.trueachievements.com/a298714/veteran-bounty-hunter-achievement)*** by placing some knocked-out guards in a pile and then using Hector's `Sawed-off` on them.
 * Earn <u>Complete the mission on Hard difficulty</u> by completing this playthrough.
 * Kill the [two Mimimi developer NPCs](https://www.trueachievements.com/a298714/veteran-bounty-hunter-achievement).
+* [Optional] Farm for ***Good Girl: Kill 75 guards with Bianca***.
 
-<table>
-    <colgroup>
-      <col span="1" style="width: 15%;">
-      <col span="1" style="width: 85%;">
-    </colgroup>
-    <tr>
-        <td><i>Badges</i></td>
-        <td>
-            After this mission, we will have <b>23/90</b> badges.
-            <ol>
-                <li></li>
-                <li></li>
-                <li><u>Win the bet with Hector</u>: This cannot be done simultaneously with the badge #4.</li>
-                <li><u>Win the bet with McCoy</u>: This cannot be done simultaneously with the badge #3.</li>
-                <li><u>Burn 15 guards in oil puddles</u>: This can be 'manually' done by knocking out 15 guards and using Hector and McCoy to place them on an oil puddle, then lighting it on fire. Make sure to do one set of five to get the <i>Inferno</i> achievement. This method may conflict with badge #2, however.</li>
-                <li><u>Complete the mission on Hard difficulty</u>: Self-explanatory.</li>
-            </ol>
-        </td>
-    </tr>
-    <tr>
-        <td><i>Mimimi devs</i></td>
-        <td><a href="https://www.trueachievements.com/a298714/veteran-bounty-hunter-achievement">Two</a></td>
-    </tr>
-    <tr>
-        <td><i>Secret achievements</i></td>
-        <td>
-            <a href="https://www.youtube.com/watch?v=8HPY9EEK7OU"><i>M-M-M-M-MONSTER KILL: Kill 6 guards at once using only a single skill.</i></a><br>
-            <i>Inferno: In the first part of the mission, burn 5 guards at once with oil traps.</i><br>
-        </td>
-    </tr>
-    <tr>
-        <td><i>Notes</i></td>
-        <td>
-            <ul>
-                <li><b>Important!</b> If you shoot <i>any enemy</i> carrying a lantern over an oil puddle, then the puddle will ignite. This makes the whole level far easier and allows one to easily skip using torches altogether.</li>
-                <li>It may be possible to save time getting badges #3 and #4 by creating a save point before the end of the mission and them finishing it once with Hector and once with McCoy. I have not tested this however.</li>
-            </ul>
-        </td>
-    </tr>
-</table>
+<h4 class="normal-difficulty">Playthrough #2</h4>
+This is the speedrun playthrough.
+
+* Earn <u>Win the bet with McCoy</u>. The speedrun route relies heavily on McCoy, so you should earn this naturally.
+* Earn <u>Speedrun: complete the mission in under 17:00 minutes</u>. Make sure you have adequately memorized what each character is supposed to do. Play smoothly and calmly; 17 minutes is more than enough time for this route. Optimbum makes some risky plays to avoid waiting for guard rotations, but you can afford to wait for them.
+
+<p style="text-align: right; font-size: 12px;">[Back to Navigation](#navigation)</p>
 
 
-### The Bridge at Eagle Falls
-<table>
-    <colgroup>
-      <col span="1" style="width: 15%;">
-      <col span="1" style="width: 85%;">
-    </colgroup>
-    <tr>
-        <td><i>Badges</i></td>
-        <td>
-            After this mission, we will have <b>29/90</b> badges.
-            <ol>
-                <li><u>Get the dynamite from the quarry</u>: This badge cannot be completed simultaneously with badge #2. This plays nicely with badge #4 however, so these two can be done together.</li>
-                <li><u>Get the dynamite from the shooting range</u>: This badge cannot be completed simultaneously with badge #1</li>
-                <li><u>Kill 3 guards with rolling logs</u>: The logs are near the sawmill near the shooting range. With her disguise, Kate can easily walk there and release the logs undetected.</li>
-                <li><u>Kill 3 guards at the same time in a quarry explosion</u>: Self-explanatory. The explosion is instantaneous, so you can use Showdown mode to clear the remaining guards and run and detonate the dynamite to finish off the three near the wall.</li>
-                <li><u>Kill 5 guards when destroying the bridge</u>: This can be 'manually' done by knocking out 5 guards and using the characters to move them to the centre of the bridge, right above where the dynamite is placed. This can be done at any time before shooting the dynamite. The badge will appear midway through the cut-scene.</li>
-                <li><u>Complete the mission on Hard difficulty</u>: Self-explanatory.</li>
-            </ol>
-        </td>
-    </tr>
-    <tr>
-        <td><i>Mimimi devs</i></td>
-        <td><a href="https://www.trueachievements.com/a298714/veteran-bounty-hunter-achievement">Two</a></td>
-    </tr>
-    <tr>
-        <td><i>Secret achievements</i></td>
-        <td>
-            <i>Goodbye Colorado: Blow up a bridge.</i> - On completion of the level.
-        </td>
-    </tr>
-    <tr>
-        <td><i>Notes</i></td>
-        <td>
-            <ul>
-                <li>Kate's disguise makes large parts of this mission trivial, especially at Normal difficulty. With some careful planning, it may also be possible to get the <u>Don't use firearms</u> badge; this may be excessively tedious, however.</li>
-                <li>This is a good level to gain some kills with Bianca for the <i>Good Girl</i> natural achievement; Hector can easily lure almost all the guards one by one.</li>
-                <li>Don't hesitate to use Cooper's double-shot near the quarry and shooting range; since these areas are near the edge of the map, it's easier to ensure that no one will hear the gunshots.</li>
-            </ul>
-        </td>
-    </tr>
-</table>
 
 
-### One Good Shot
-<table>
-    <colgroup>
-      <col span="1" style="width: 15%;">
-      <col span="1" style="width: 85%;">
-    </colgroup>
-    <tr>
-        <td><i>Badges</i></td>
-        <td>
-            None
-        </td>
-    </tr>
-    <tr>
-        <td><i>Mimimi devs</i></td>
-        <td><a href="https://www.trueachievements.com/a298714/veteran-bounty-hunter-achievement">One</a></td>
-    </tr>
-    <tr>
-        <td><i>Secret achievements</i></td>
-        <td>
-            None
-        </td>
-    </tr>
-    <tr>
-        <td><i>Notes</i></td>
-        <td>None</td>
-    </tr>
-</table>
+## The Bridge at Eagle Falls
+At the end of these playthroughs, you should have **33/90** badges.
+
+<h4 class="hard-difficulty">Playthrough #1</h4>
+
+* Earn <u>Get the dynamite from the quarry</u>. I feel the quarry is easier to deal with on Hard difficulty than the shooting range.
+* Earn <u>Kill 3 guards at the same time in a quarry explosion</u>. This is easy to do on the way to the previous badge. Note that the explosion is instantaneous, so you can run and detonate it if needed.
+* Earn <u>Kill 5 guards when destroying the bridge</u>. To do this, place 5 unconscious guards on the section of the bridge just above where the dynamite goes. During the cutscene, this part will fall away and you'll receive the badge.
+* Achieve ***Goodbye Colorado: Blow up a bridge*** and earn <u>Complete the mission on Hard difficulty</u> by completing this playthrough.
+* Kill the [two Mimimi developer NPCs](https://www.trueachievements.com/a298714/veteran-bounty-hunter-achievement).
+
+<h4 class="normal-difficulty">Playthrough #2</h4>
+
+* Earn <u>Get the dynamite from the shooting range</u>.
+* Earn <u>Kill 3 guards with rolling logs</u>. The logs are near the sawmill adjacent to the shooting range. With her Disguise, Kate can easily walk there and release the logs undetected.
+* [Optional] Farm for ***Follow Me Darling: Make guards follow Kate for 1,000 meters total***.
+
+<p style="text-align: right; font-size: 12px;">[Back to Navigation](#navigation)</p>
 
 
-### One Hell of a Night
+
+
+## One Good Shot
+This mission has no badges or secret achievements, but has a single Mimimi dev.
+
+<h4 class="normal-difficulty">Playthrough #1</h4>
+
+* Kill the [Mimimi developer NPC](https://www.trueachievements.com/a298714/veteran-bounty-hunter-achievement).
+
+<p style="text-align: right; font-size: 12px;">[Back to Navigation](#navigation)</p>
+
+
+
+
+## One Hell of a Night
 <table>
     <colgroup>
       <col span="1" style="width: 15%;">
