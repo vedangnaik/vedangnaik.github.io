@@ -51,16 +51,30 @@ Each playthrough section will be coloured <span class="normal-difficulty">like s
     <td>The guard at the start of <b>Louisiana Voodoo</b> is likely the most convenient location for this.</td>
 </tr> -->
 
-<nav>
-  <h3 id="navigation">Navigation</h3>
-  1. this unordered seed list will be replaced by toc as unordered list
-  {:toc}
-</nav>
+- [Main Story Missions](#main-story-missions)
+  - [On The Hunt](#on-the-hunt)
+  - [Byers Pass](#byers-pass)
+  - [Troublemakers in Flagstone](#troublemakers-in-flagstone)
+  - [Until Death Do Us Part](#until-death-do-us-part)
+  - [O'Hara Ranch](#ohara-ranch)
+  - [The Bridge at Eagle Falls](#the-bridge-at-eagle-falls)
+  - [One Good Shot](#one-good-shot)
+  - [One Hell of a Night](#one-hell-of-a-night)
+  - [Louisiana Voodoo](#louisiana-voodoo)
+  - [Back Alley Jazz](#back-alley-jazz)
+  - [Burn the Queen](#burn-the-queen)
+  - [Dirt and Blood](#dirt-and-blood)
+  - [A Cart Full Of Gunpowder](#a-cart-full-of-gunpowder)
+  - [The Wages of Pain](#the-wages-of-pain)
+  - [A Captain Of Industry](#a-captain-of-industry)
+  - [The Old And The New](#the-old-and-the-new)
+- [Baron's Challenges](#barons-challenges)
+
 <br><br>
 
+## Main Story Missions
 
-
-## On The Hunt
+### On The Hunt
 This mission has no badges or Mimimi devs, but has a few secret achievements.
 
 <h4 class="normal-difficulty">Playthrough #1</h4>
@@ -73,7 +87,7 @@ This mission has no badges or Mimimi devs, but has a few secret achievements.
 
 
 
-## Byers Pass
+### Byers Pass
 This is probably the easiest mission to complete in Desperado difficulty, so the last playthrough will focus on that. At the end of these playthroughs, you should have **7/90** badges.
 
 <h4 class="hard-difficulty">Playthrough #1</h4>
@@ -100,7 +114,7 @@ This is probably the easiest mission to complete in Desperado difficulty, so the
 
 
 
-## Troublemakers in Flagstone
+### Troublemakers in Flagstone
 At the end of these playthroughs, you should have **14/90** badges.
 
 <h4 class="hard-difficulty">Playthrough #1</h4>
@@ -123,7 +137,7 @@ At the end of these playthroughs, you should have **14/90** badges.
 
 
 
-## Until Death Do Us Part
+### Until Death Do Us Part
 The badges for this level *cannot* be done simultaneously, so we are forced to do multiple playthroughs. At the end of these playthroughs, you should have **20/90** badges.
 
 <h4 class="hard-difficulty">Playthrough #1</h4>
@@ -144,7 +158,7 @@ Get the disguise for this playthrough if you wish.
 
 
 
-## O'Hara Ranch
+### O'Hara Ranch
 This mission has a pretty straightforward [speedrun strategy](https://www.youtube.com/watch?v=TYcpPkJNkAk), executed here by speedrunner *Optibum*. Thus, the speedrun badge will be included. At the end of these playthroughs, you should have **27/90** badges.
 
 <h4 class="hard-difficulty">Playthrough #1</h4>
@@ -170,7 +184,7 @@ This is the speedrun playthrough.
 
 
 
-## The Bridge at Eagle Falls
+### The Bridge at Eagle Falls
 At the end of these playthroughs, you should have **33/90** badges.
 
 <h4 class="hard-difficulty">Playthrough #1</h4>
@@ -192,7 +206,7 @@ At the end of these playthroughs, you should have **33/90** badges.
 
 
 
-## One Good Shot
+### One Good Shot
 This mission has no badges or secret achievements, but has a single Mimimi dev.
 
 <h4 class="normal-difficulty">Playthrough #1</h4>
@@ -204,7 +218,7 @@ This mission has no badges or secret achievements, but has a single Mimimi dev.
 
 
 
-## One Hell of a Night
+### One Hell of a Night
 There is a mechanic in the game wherein a *unconscious, tied-up* guard will lure *any guard* (even Ponchos and Long Coats) and furthermore, the lured guard(s) will not raise the alarm until *after* they've untied their friend. This, along with the footsteps-in-the-mud mechanic, and Hector's ability to carry, run, and throw bodies makes him *extremely overpowered* in this level. So much so, in fact, that's its possible to get all 7 badges in a single playthrough! At the end of this playthrough, you should have **40/90** badges.
 
 <h4 class="hard-difficulty">Playthrough #1</h4>
@@ -214,7 +228,7 @@ There is a mechanic in the game wherein a *unconscious, tied-up* guard will lure
 * Earn <u>Don't use a disguise</u>. In fact, Kate doesn't even need to do anything at all.
 * Earn <u>Kill 6 guards</u>. You can throw guards into the water to kill them. You can also kill up to 3 guards using the cannon in the middle of the level.
 * Earn <u>Don't use the bank's backdoor</u>. The 'backdoor' refers to the entrance from the construction area.
-* Earn <u>Make a guard follow your footprints for 50 meters</u>. This requires a bit of timing, but can be done immediately at the very beginning of the mission. Lure the guard near the water tower. Use the incline the hut is on to break his line of sight, and keep circling around it until you receive the badge.
+* Achieve ***Yakety Sax: Make someone follow your footprints for 25 meters.*** and earn <u>Make a guard follow your footprints for 50 meters</u>. This requires a bit of timing, but can be done immediately at the very beginning of the mission. Lure the guard near the water tower. Use the incline the hut is on to break his line of sight, and keep circling around it until you receive the badge.
 * Earn <u>Complete the mission on Hard difficulty</u> by completing this playthrough.
 * Achieve ***[Need a Dentist?: Find a patient for the dentist](https://www.youtube.com/watch?v=9-tsCaqHAOM)***. This is best done at the end after you've cleared most of the map.
 * Kill the [three Mimimi developer NPCs](https://www.trueachievements.com/a298714/veteran-bounty-hunter-achievement).
@@ -224,7 +238,7 @@ There is a mechanic in the game wherein a *unconscious, tied-up* guard will lure
 
 
 
-## Louisiana Voodoo
+### Louisiana Voodoo
 
 > TODO!
 
@@ -273,7 +287,7 @@ There is a mechanic in the game wherein a *unconscious, tied-up* guard will lure
 
 
 
-## Back Alley Jazz
+### Back Alley Jazz
 
 > TODO!
 
@@ -321,7 +335,7 @@ There is a mechanic in the game wherein a *unconscious, tied-up* guard will lure
 
 
 
-## Burn the Queen
+### Burn the Queen
 
 > TODO!
 
@@ -368,7 +382,7 @@ There is a mechanic in the game wherein a *unconscious, tied-up* guard will lure
 
 
 
-## Dirt and Blood
+### Dirt and Blood
 This is not a level I enjoyed playing, so I apologize in advance if the playthroughs below aren't as efficient as they could be. Regardless, after these playthroughs you should have **TODO/90** badges.
 
 <h4 class="hard-difficulty">Playthrough #1</h4>
@@ -389,9 +403,23 @@ This is not a level I enjoyed playing, so I apologize in advance if the playthro
 
 
 
-## A Cart Full Of Gunpowder
+### A Cart Full Of Gunpowder
+After these playthroughs you should have **TODO/90** badges.
 
-> TODO!
+<h4 class="hard-difficulty">Playthrough #1</h4>
+
+* Earn <u>Don't use Isabelle's connect ability</u>. This places a fairly major restriction on the level, but even in Hard difficulty it's still pretty straightforward.
+* Earn <u>Traverse the mine on the left side</u>. I found the left side easier than the right due to the larger number of environmental kills. Since you don't have `Connect`, I recommend this path.
+* Earn <u>Kill 20 opponents with dynamite</u>. Again, since you don't have `Connect`, go ahead and just blow everybody up 😎. Be careful, however - your characters have lesser health in hard difficulty, so they can't get shot too often.
+* Earn <u>Complete the mission on Hard difficulty</u> by completing this playthrough.
+* Kill the [**first of two** Mimimi developer NPCs]("https://www.trueachievements.com/a298714/veteran-bounty-hunter-achievement").
+* [Optional] If you wish, you can try to earn <u>Pick up only McCoy's gear</u>; you will automatically earn the first badge since `Connect` is part of Isabelle's 'gear'. This may be very tedious, however.
+
+<h4 class="normal-difficulty">Playthrough #2</h4>
+
+* Earn <u>Don't pick up the dynamite</u>. Since you have `Connect` now, you can afford to be more discreet.
+* Earn <u>Traverse the mine on the right side</u>.
+* Kill the [**second of two** Mimimi developer NPCs]("https://www.trueachievements.com/a298714/veteran-bounty-hunter-achievement") on the way to the previous badge.
 
 <p class="navigation-link">[Back to Navigation](#navigation)</p><br>
 
@@ -436,7 +464,33 @@ This is not a level I enjoyed playing, so I apologize in advance if the playthro
 
 
 
-## A Captain Of Industry
+### The Wages of Pain
+This is not a level I enjoyed playing, so I apologize in advance if the playthroughs below aren't as efficient as they could be. Regardless, after these playthroughs you should have **TODO/90** badges.
+
+<h4 class="hard-difficulty">Playthrough #1</h4>
+
+* Achieve ***[Power Nap: Interrupt an important healing procedure](https://www.youtube.com/watch?v=o8mm3fDr1bQ)*** at the very beginning of the mission.
+* Earn <u>Finish the mission without crossing the train tracks</u>. This places a fairly major restriction on the level but it it still manageable.
+* Earn <u>Kill 5 guards with the train</u>. You can do this by knocking out guards and dropping them onto the tracks. Alternately, for a more 'entertaining' approach, you can use Hector's `Whistle` on guards on the other side at the exact moment to have them run over by the train.
+* Earn <u>Use the wagon to block the train tracks</u>. Since you can't cross the train tracks, you don't have a choice here.
+* Earn <u>Finish the mission without dropping Isabelle</u>. This is easier than it sounds. You can't use Cooper, but since he's alone on the other side of the map there's not much he can do anyway. Since Kate and Hector are already at the front of the train, you'll have a much easier time taking out guards with them.
+* Earn <u>Complete the mission on Hard difficulty</u> by completing this playthrough.
+* Kill the [**first of two** Mimimi developer NPCs]("https://www.trueachievements.com/a298714/veteran-bounty-hunter-achievement").
+
+<h4 class="normal-difficulty">Playthrough #2</h4>
+This playthrough is mainly to get the second Mimimi dev and another secret achievement which are located on the other side of the tracks.
+
+* Earn <u>Use the cattle to block the train tracks</u>.
+* Achieve ***[Gunslinger's Creed: Jump from a tower into a cart of hay](https://www.youtube.com/watch?v=130AHX6nNOY)*** on the way to the previous badge.
+* Kill the [**second of two** Mimimi developer NPCs]("https://www.trueachievements.com/a298714/veteran-bounty-hunter-achievement").
+* [Optional] If you wish, you can try to earn <u>Don't kill anyone (except mission targets)</u> in this playthrough. I tried this but found it excessively tedious; you not only have to not kill anyone on the way to the cattle, you also have to prevent the cattle themselves from killing anybody!
+
+<p class="navigation-link">[Back to Navigation](#navigation)</p><br>
+
+
+
+
+### A Captain Of Industry
 This mission has a very easy [speedrun strategy](https://www.youtube.com/watch?v=UovLY9SbneY), executed here by *Optibum* again. Thus, the speedrun badge will be included. In fact, by making small tweaks here and there to this route, you can very easily earn all eight badges inside 30 minutes. After these playthroughs you should have **TODO/90** badges.
 
 <h4 class="normal-difficulty">Playthrough #1</h4>
@@ -457,5 +511,28 @@ This follows the same route as earlier, but with more substantial changes. If yo
 * Once you've earned the three badges above, reload your **manual save** and backtrack with Cooper to kill the [two Mimimi developer NPCs]("https://www.trueachievements.com/a298714/veteran-bounty-hunter-achievement").
 
 <p class="navigation-link">[Back to Navigation](#navigation)</p><br>
+
+
+
+
+
+### The Old And The New
+I found this mission very long and tedious, and I think many other people felt the same. Thus, I decided to do a single playthrough and earn just 5 badges here. It is challenging enough with the added constraints of the five badges, so we'll be forgoing the Hard difficulty badge as well.
+
+<h4 class="normal-difficulty">Playthrough #1</h4>
+
+* Earn <u>Don't switch sides with any character</u>. This places a major restriction on this playthrough, but is still fairly bearable. Note that it is unclear at what point a character is considered to have 'crossed-over' when on the first bridge at least; I personally kept them completely off it and ignored the central section.
+* Earn <u>Reach the chapel via the right entrance</u>. This badge is earned the moment Isabelle or McCoy *cross the rope bridge* leading to the chapel area. Make sure to make a **manual save** before doing this; after you cross the bridge and earn the badge, load this save and then do the badge below.
+* Earn <u>Reach the chapel via the left entrance</u>. This badge is earned the moment Cooper, Kate, or Hector cross the *thin, rocky path* leading to the chapel area.
+* Earn <u>Kill 6 guards with falling rocks</u>. This can be done very early by Isabelle and McCoy on the right side path. To do so, knock out the eight guards in the vicinity and place them under the boulder before pushing it over.
+* Earn <u>Don't use a disguise</u>. This is easier than it sounds. In any case, it's unclear if one can obtain the disguise without 'crossing over'.
+* Kill the [two Mimimi developer NPCs]("https://www.trueachievements.com/a298714/veteran-bounty-hunter-achievement").
+* Achieve ***[Chicken Dinner: Kill all 3 golden chickens](https://guides.gamepressure.com/desperados-iii/guide.asp?ID=58096)*** by shooting the final golden chicken.
+* Achieve ***Five Good Shots: Defeat Frank.*** by completing this playthrough.
+
+
+
+
+## Baron's Challenges
 
 > This post is a work-in-progress. Check back soon!
