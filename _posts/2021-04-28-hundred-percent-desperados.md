@@ -18,7 +18,7 @@ title: "On Techniques for Efficient 100% Steam Achievements in Desperados III"
     </style>
 </head>
 
-I've been replaying [Desperados III](https://store.steampowered.com/app/610370/Desperados_III/) on PC recently. As I was going through the first few missions, I thought *Gee, it sure would be fun to do all these extra badges and maybe even 100% this game!* However, the badges for each mission do not show up until after the first completion, which leads to a ton of wasted time. One also ends up missing a lot of the secret achievements in each mission. Thus, I decided to create this 'roadmap' of sorts to allow one to 100% this game as efficiently as possible.
+I've been replaying [Desperados III](https://store.steampowered.com/app/610370/Desperados_III/) on PC recently. As I was going through the first few missions, I thought *Gee, it sure would be fun to do all these extra badges and maybe even 100% this game!* However, the badges for each mission do not show up until after the first completion, which leads to a ton of wasted time. One also ends up missing a lot of the secret achievements in each mission. Thus, I decided to create this 'roadmap' of sorts to allow one to 100% this game as efficiently as possible. I hope you find it useful!
 
 <h3 style="color: red"> CAUTION! This post contains a lot of spoilers for the main game. </h3>
 <br>
@@ -411,4 +411,12 @@ I found this mission very long and tedious, and I think many other people felt t
 
 ## Baron's Challenges
 
-> This post is a work-in-progress. Check back soon!
+At this point, the only achievement you should have left is ***Most Entertaining: Complete 5 of the Baron's Challenges***. Since you've finished the main story, you will have all 14 challenges unlocked, out of which you must do five. Note that you can complete them on normal difficulty if you wish; in fact, even beginner difficulty may suffice, though I haven't tested this. Here are my recommendations - I chose them since they all have fairly straightforward speedruns:
+
+1. [What If?](https://www.youtube.com/watch?v=KP3nUQ8XT0s), executed again by *Optimbum*.
+2. [Bear Trap Triplets](https://www.youtube.com/watch?v=oef8lhGh3Bg), executed again by *Optimbum*.
+3. [Untitled Voodoo Mission](https://www.youtube.com/watch?v=N2fXGfhVy6A), executed by speedrunner *z w*.
+4. [The Devil Is In The Details](https://www.youtube.com/watch?v=5wAtRzCUCCw), executed again by *z w*.
+5. [Bird Hunting](https://www.youtube.com/watch?v=96om0eFvf0Y), executed again by *z w*
+
+Both these speedrunners use some extremely clever tactics and amazing mechanics which can be easily applied to the story playthroughs as well.
