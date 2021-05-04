@@ -41,31 +41,60 @@ As of the writing of this post, the base game on Steam has 36 achievements. Some
 * ***Sheriff's Badge: Earn 90 badges***: 14 out of the 16 main story missions have eight badges each. This gives us a total of 112 badges, out of which we must earn 90. Not all of the badges are equally easy to earn however, so I have chosen what are, in my opinion, the easiest ones to get for each mission. Note that all of the fourteen missions have <u>Complete the mission on Hard difficulty.</u> and <u>Speedrun: Complete the mission in under xx:xx minutes</u>. I've elected to always do the former, and only include the latter if there is a suitably easy strategy.
 * ***Seasoned Bounty Hunter: Kill 15 of the hidden Mimimi devs*** and ***Veteran Bounty Hunter: Kill 31 hidden Mimimi devs***: The 'hidden Mimimi devs' are named NPCs which are found in out-of-the-way spots on most maps. [This guide](https://www.trueachievements.com/a298714/veteran-bounty-hunter-achievement) shows all of their locations. It suffices to just kill them and wait a few moments; you don't have to finish the mission to have the kill count.
 
-Each playthrough section will be coloured <span class="normal-difficulty">like so</span> if the difficulty is 'Normal' and <span class="hard-difficulty">like so</span> if the difficulty is 'Hard'. There will also be farming tips for some of the mission-agnostic achievements, if applicable. For these farming techniques, it suffices to create a quicksave just a second before the event, then reloading this over and over again until the desired number has been reached. For example, if farming for ***Doubletime: Kill 200 guards using Cooper's double shot***, use Showdown mode to make Cooper target two guards, then quicksave, then execute the action. After that, just reload the quicksave and execute it again over and over. Even though you're killing the same guards again and again, it still counts as separate kills in Steam achievements.
+Each playthrough section will be coloured <span class="normal-difficulty">like so</span> if the difficulty is 'Normal' and <span class="hard-difficulty">like so</span> if the difficulty is 'Hard'. There will also be farming tips for some of the mission-agnostic achievements, if applicable. For these farming techniques, it suffices to create a quicksave just a second before the event, then reloading this over and over again until the desired number has been reached. For example, if farming for ***Doubletime: Kill 200 guards using Cooper's double shot***, use Showdown mode to make Cooper target two guards, then quicksave, then execute the action. After that, reload the quicksave and execute it again over and over. Even though you're killing the same guards again and again, it still counts as separate kills for the achievement.
 
+I've also included some general tips to aid you on your playthroughs.
 
+#### Navigation
+<!-- no toc -->
 - [Introduction](#introduction)
+- [General Tips](#general-tips)
 - [Main Story Missions](#main-story-missions)
-  - [On The Hunt](#on-the-hunt)
-  - [Byers Pass](#byers-pass)
-  - [Troublemakers in Flagstone](#troublemakers-in-flagstone)
-  - [Until Death Do Us Part](#until-death-do-us-part)
-  - [O'Hara Ranch](#ohara-ranch)
-  - [The Bridge at Eagle Falls](#the-bridge-at-eagle-falls)
-  - [One Good Shot](#one-good-shot)
-  - [One Hell of a Night](#one-hell-of-a-night)
-  - [Louisiana Voodoo](#louisiana-voodoo)
-  - [Back Alley Jazz](#back-alley-jazz)
-  - [Burn the Queen](#burn-the-queen)
-  - [Dirt and Blood](#dirt-and-blood)
-  - [A Cart Full Of Gunpowder](#a-cart-full-of-gunpowder)
-  - [The Wages of Pain](#the-wages-of-pain)
-  - [A Captain Of Industry](#a-captain-of-industry)
-  - [The Old And The New](#the-old-and-the-new)
+  1.  [On The Hunt](#on-the-hunt)
+  2.  [Byers Pass](#byers-pass)
+  3.  [Troublemakers in Flagstone](#troublemakers-in-flagstone)
+  4.  [Until Death Do Us Part](#until-death-do-us-part)
+  5.  [O'Hara Ranch](#ohara-ranch)
+  6.  [The Bridge at Eagle Falls](#the-bridge-at-eagle-falls)
+  7.  [One Good Shot](#one-good-shot)
+  8.  [One Hell of a Night](#one-hell-of-a-night)
+  9.  [Louisiana Voodoo](#louisiana-voodoo)
+  10. [Back Alley Jazz](#back-alley-jazz)
+  11. [Burn the Queen](#burn-the-queen)
+  12. [Dirt and Blood](#dirt-and-blood)
+  13. [A Cart Full Of Gunpowder](#a-cart-full-of-gunpowder)
+  14. [The Wages of Pain](#the-wages-of-pain)
+  15. [A Captain Of Industry](#a-captain-of-industry)
+  16. [The Old And The New](#the-old-and-the-new)
 - [Baron's Challenges](#barons-challenges)
 - [Conclusion](#conclusion)
 
-<br><br>
+<br>
+
+
+
+## General Tips
+In no particular order, here are some tips, mechanics, and notes that I've either noticed myself or learnt from speedruns and other sources.
+
+* Possibly the most easily abusable mechanic in the game is that an *unconscious, tied-up guard* will lure *any guard* (even Ponchos and Long Coats) and furthermore, the lured guard(s) will not raise the alarm until *after* they've untied their friend. In some levels, this allows you to easily break open formations of three or four guards watching each other. Note, however, that once they've been lured, additional lures like Hector's `Whistle` and McCoy's `Bag` won't work.
+* Cooper can easily deal with pair of guards by throwing his `Knife` at one and knocking out the other.
+* Hector can `Whistle` to the same enemy twice. The second time, they'll come running, so be prepared to take them out quickly.
+* In general, even if guards see you, you have a window of maybe half a second to kill them before they actually raise the alarm.
+* Any time a character picks up a guard that another character has killed, any animation the body is in will get cancelled. For example, if Doc uses his `Buntline` on someone, the guard takes a very long time to fall down; this usually ends up being seen by somebody. Instead, you can have (say) Kate stand right next to the guard, then immediately pick them up the moment Doc shoots them. This will cancel the long fall-down animation and prevent anyone from seeing it.
+* Isabelle's `Connect` is a very flexible tool that can be used in a variety of situations. Here are a few:
+  * Long Coats connected to normal guards will get distracted by `Stella`.
+  * Killing a guard connected to a Long Coat will cause the Long Coat to go into the stagger state.
+  * Connecting Isabelle herself to another guard and then using `Mind Control` on a second guard will *kill* the connected guard (for some reason).
+  * Killing guards by connecting them to someone killed via the environment does not raise an alert, no matter how far they are.
+* All characters can drop bodies off of heights, and Hector can throw them. A body thrown onto a guard will knock them out; even Long Coats will get knocked out (they can then be killed normally). Specifically, Hector can throw bodies onto *your own characters* and *carry and throw them* as well! This is used in some speedruns to throw certain characters over short obstacles that they'd otherwise have to walk around.
+* Hector, Isabelle, and `Mind Control` have a very nice synergy. After Isabelle `Mind Control`s a guard, she cannot move. This thus fixes the radius of the control. However, Hector can *knock her out* and then *carry her* to some other location, and the control's radius *will change* as well!
+* Guards following Kate under her `Lure` will climb up/down ladders but will not continue following her through buildings or doors.
+* Isabelle moves significantly faster than all the other characters.
+
+<p class="navigation-link">[Back to Navigation](#navigation)</p><br>
+
+
+
 
 ## Main Story Missions
 
@@ -217,7 +246,7 @@ This mission has no badges or secret achievements, but has a single Mimimi dev.
 
 
 ### One Hell of a Night
-There is a mechanic in the game wherein a *unconscious, tied-up* guard will lure *any guard* (even Ponchos and Long Coats) and furthermore, the lured guard(s) will not raise the alarm until *after* they've untied their friend. This, along with the footsteps-in-the-mud mechanic, and Hector's ability to carry, run, and throw bodies makes him *extremely overpowered* in this level. So much so, in fact, that's its possible to get all 7 badges in a single playthrough! At the end of this playthrough, you should have **42/90** badges.
+The *unconscious-and-tied-up guard lure mechanic* along with the footsteps-in-the-mud mechanic and Hector's ability to carry, run, and throw bodies makes him *extremely overpowered* in this level. So much so, in fact, that's its possible to get all 7 badges in a single playthrough! At the end of this playthrough, you should have **42/90** badges.
 
 <h4 class="hard-difficulty">Playthrough #1</h4>
 
@@ -242,7 +271,7 @@ After these playthroughs you should have **47/90** badges.
 <h4 class="hard-difficulty">Playthrough #1</h4>
 
 * Earn <u>Free Kate or Hector first</u>. I believe you can immediately swim across to Kate's cell from the beginning of the level.
-* Earn <u>Kill 3 guards with an environment kill</u>. At the very beginning, the mind-controlled guard can be used to kill the two guards under the pile of boxes. After that, there's a single guard under a big rock near Cooper's boat.
+* Earn <u>Kill 3 guards with an environment kill</u>. At the very beginning, the `Mind Control`ed guard can be used to kill the two guards under the pile of boxes. After that, there's a single guard under a big rock near Cooper's boat.
 * Achieve ***Like Clockwork: Execute a plan with all five characters*** and earn <u>Kill 5 guards at the same time</u>. Note that for the achievement, if suffices to just make a character walk somewhere in Showdown Mode if you don't have anything specific for them to do.
 * Earn <u>Complete the mission on Hard difficulty</u> by completing this playthrough.
 * Shoot the second golden chicken for ***[Chicken Dinner: Kill all 3 golden chickens](https://guides.gamepressure.com/desperados-iii/guide.asp?ID=58096)***.
@@ -274,7 +303,7 @@ After these playthroughs you should have **53/90** badges.
 
 * Achieve ***[Exterminator: Kill 10 small animals in one mission](https://knoef.info/trophy-guides/ps4-guides/desperados-3-trophy-guide/)***. **Important!** This is an easy achievement to lock yourself out of. The animals are scattered throughout both 'phases' of the mission, and if you don't kill them before proceeding to phase 2, you won't get the achievement. I also found the animals bugged; a little bit of noise was needed to make them move around. Make sure to quicksave and reload often.
 * Earn <u>Kill all suspects</u>.
-* Earn <u>Kill 3 guards using dogs</u>. You must mind-control the dog and force it to bite a guard. You will need at least 2 darts for this. Make sure to use Isabelle to connect two guards together to get more bang for you bark 😉.
+* Earn <u>Kill 3 guards using dogs</u>. You must `Mind Control` the dog and force it to bite a guard. You will need at least 2 darts for this. Make sure to use Isabelle to connect two guards together to get more bang for you bark 😉.
 * Kill the [three Mimimi developer NPCs](https://www.trueachievements.com/a298714/veteran-bounty-hunter-achievement), since you're now allowed to kill.
 
 <p class="navigation-link">[Back to Navigation](#navigation)</p><br>
@@ -382,7 +411,7 @@ This is the speedrun playthough; the time limit is generous enough that it can b
 * Earn <u>Don't use both distractions</u>; this is automatically achieved by this route.
 * Earn <u>Don't let anyone see you</u>. The 22 minutes for the speedrun badge is more than enough to execute this route. Thus, take your time and avoid being spotted.
 * Earn <u>Use mind control on Devitt's character</u>; this is automatically achieved by this route. Note that some online guides say that this badge cannot be earned unless one of the distractions has been used and DeVitt is alone with his men - this is **false** (at least as of writing this post); you can get it at any point.
-* Earn <u>Kill 2 guards with a statue</u>. Immediately after relinquishing mind-control on DeVitt and securing him, use Hector to drop the statue in the courtyard onto the guard and the Long Coat. If you miss a rotation, don't worry; you have enough time to do this and still get the speedrun badge.
+* Earn <u>Kill 2 guards with a statue</u>. Immediately after relinquishing `Mind Control` on DeVitt and securing him, use Hector to drop the statue in the courtyard onto the guard and the Long Coat. If you miss a rotation, don't worry; you have enough time to do this and still get the speedrun badge.
 * Earn <u>Speedrun: Complete the mission in under 22:00 minutes</u>. Make sure you have memorized everything that each character has to do. Play smoothly and calmly; you have enough time. The last section is a little finnicky; I found that connecting a few guards and then using `Stella` on them helps.
 * Achieve ***Package Delivered: Take care of DeVitt*** by completing this playthrough.
 
