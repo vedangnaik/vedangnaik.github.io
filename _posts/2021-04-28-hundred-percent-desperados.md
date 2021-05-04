@@ -24,6 +24,11 @@ I've been replaying [Desperados III](https://store.steampowered.com/app/610370/D
 <br>
 <br>
 
+
+
+
+## Introduction
+
 With that in mind, let's begin. First, some terminology:
 * A 'map' is the landscape upon which your characters and enemies move around. Examples include *Devil's Canyon, Casa DeVitt*, etc. These names can be seen when hovering over the mission selectors in the 'Mission Select' menu. These have no specific formatting.
 * A 'mission' is a set of objectives which you characters achieve on a map. Examples include *On the Hunt, Untitled Voodoo Mission*, etc. There are 16 missions in the main story, and 14 missions in the *Baron's Challenges*. These have no specific formatting.
@@ -38,6 +43,8 @@ As of the writing of this post, the base game on Steam has 36 achievements. Some
 
 Each playthrough section will be coloured <span class="normal-difficulty">like so</span> if the difficulty is 'Normal' and <span class="hard-difficulty">like so</span> if the difficulty is 'Hard'. There will also be farming tips for some of the mission-agnostic achievements, if applicable. For these farming techniques, it suffices to create a quicksave just a second before the event, then reloading this over and over again until the desired number has been reached. For example, if farming for ***Doubletime: Kill 200 guards using Cooper's double shot***, use Showdown mode to make Cooper target two guards, then quicksave, then execute the action. After that, just reload the quicksave and execute it again over and over. Even though you're killing the same guards again and again, it still counts as separate kills in Steam achievements.
 
+
+- [Introduction](#introduction)
 - [Main Story Missions](#main-story-missions)
   - [On The Hunt](#on-the-hunt)
   - [Byers Pass](#byers-pass)
@@ -56,6 +63,7 @@ Each playthrough section will be coloured <span class="normal-difficulty">like s
   - [A Captain Of Industry](#a-captain-of-industry)
   - [The Old And The New](#the-old-and-the-new)
 - [Baron's Challenges](#barons-challenges)
+- [Conclusion](#conclusion)
 
 <br><br>
 
@@ -91,7 +99,7 @@ This is probably the easiest mission to complete in Desperado difficulty, so the
 
 <h4 class="normal-difficulty">Playthrough #2</h4>
 
-* Earn <u>Don't save during the mission</u>. You can explicitly set the number of saves to 'None' in the difficulty options if you reflexively save like I do 😂. Go slowly and ensure that you can safely proceed. It's not the end of the run if you trigger an alert however: just wait it out.
+* Earn <u>Don't save during the mission</u>. You can explicitly set the number of saves to 'None' in the difficulty options if you reflexively save like I do 😂. Go slowly and ensure that you can safely proceed. It's not the end of the run if you trigger an alert: just wait it out.
 * Earn <u>Don't use firearms</u>. This is fairly straightforward. Rely on McCoy's `Bag` and Cooper's `Knife`. Note that for pairs, Cooper can use `Knife` on one guard and immediately knock out the other.
 
 <h4 style="color:purple">Playthrough #3</h4>
@@ -147,7 +155,7 @@ Get the disguise for this playthrough if you wish.
 
 
 ### O'Hara Ranch
-This mission has a pretty straightforward [speedrun strategy](https://www.youtube.com/watch?v=TYcpPkJNkAk), executed here by speedrunner *Optibum*. Thus, the speedrun badge will be included. At the end of these playthroughs, you should have **27/90** badges.
+This mission has a pretty straightforward [speedrun strategy](https://www.youtube.com/watch?v=TYcpPkJNkAk), executed here by speedrunner *Optibum*. Thus, the speedrun badge will be included. At the end of these playthroughs, you should have **28/90** badges.
 
 <h4 class="hard-difficulty">Playthrough #1</h4>
 This is the non-speedrun playthrough. In any case, try to follow the same route to get a feel for it.
@@ -166,6 +174,7 @@ This is the speedrun playthrough.
 
 * Earn <u>Win the bet with McCoy</u>. The speedrun route relies heavily on McCoy, so you should earn this naturally.
 * Earn <u>Speedrun: complete the mission in under 17:00 minutes</u>. Make sure you have adequately memorized what each character is supposed to do. Play smoothly and calmly; 17 minutes is more than enough time for this route. Optimbum makes some risky plays to avoid waiting for guard rotations, but you can afford to wait for them.
+* * Earn <u>Don't save during the mission</u>. This should be straightforward if you've sufficiently practiced the route.
 
 <p class="navigation-link">[Back to Navigation](#navigation)</p><br>
 
@@ -173,7 +182,7 @@ This is the speedrun playthrough.
 
 
 ### The Bridge at Eagle Falls
-At the end of these playthroughs, you should have **33/90** badges.
+At the end of these playthroughs, you should have **35/90** badges.
 
 <h4 class="hard-difficulty">Playthrough #1</h4>
 
@@ -186,7 +195,8 @@ At the end of these playthroughs, you should have **33/90** badges.
 <h4 class="normal-difficulty">Playthrough #2</h4>
 
 * Earn <u>Get the dynamite from the shooting range</u>.
-* Earn <u>Kill 3 guards with rolling logs</u>. The logs are near the sawmill adjacent to the shooting range. With her Disguise, Kate can easily walk there and release the logs undetected.
+* Earn <u>Don't use firearms</u>. This places a rather major restriction on this level, but it is still quite straightforward. I feel the shooting range is easier to handle without guns since you have multiple approaches. McCoy's `Swamp Gas` can be used to take out the Long Coat. It's also en route to the next badge.
+* Earn <u>Kill 3 guards with rolling logs</u>. The logs are near the sawmill adjacent to the shooting range. With her disguise, Kate can easily walk there and release the logs.
 * [Optional] Farm for ***Follow Me Darling: Make guards follow Kate for 1,000 meters total*** and ***Watch Out Below!: Kill 50 guards using the environment***.
 
 <p class="navigation-link">[Back to Navigation](#navigation)</p><br>
@@ -207,7 +217,7 @@ This mission has no badges or secret achievements, but has a single Mimimi dev.
 
 
 ### One Hell of a Night
-There is a mechanic in the game wherein a *unconscious, tied-up* guard will lure *any guard* (even Ponchos and Long Coats) and furthermore, the lured guard(s) will not raise the alarm until *after* they've untied their friend. This, along with the footsteps-in-the-mud mechanic, and Hector's ability to carry, run, and throw bodies makes him *extremely overpowered* in this level. So much so, in fact, that's its possible to get all 7 badges in a single playthrough! At the end of this playthrough, you should have **40/90** badges.
+There is a mechanic in the game wherein a *unconscious, tied-up* guard will lure *any guard* (even Ponchos and Long Coats) and furthermore, the lured guard(s) will not raise the alarm until *after* they've untied their friend. This, along with the footsteps-in-the-mud mechanic, and Hector's ability to carry, run, and throw bodies makes him *extremely overpowered* in this level. So much so, in fact, that's its possible to get all 7 badges in a single playthrough! At the end of this playthrough, you should have **42/90** badges.
 
 <h4 class="hard-difficulty">Playthrough #1</h4>
 
@@ -227,7 +237,7 @@ There is a mechanic in the game wherein a *unconscious, tied-up* guard will lure
 
 
 ### Louisiana Voodoo
-After these playthroughs you should have **TODO/90** badges.
+After these playthroughs you should have **47/90** badges.
 
 <h4 class="hard-difficulty">Playthrough #1</h4>
 
@@ -251,7 +261,7 @@ After these playthroughs you should have **TODO/90** badges.
 
 
 ### Back Alley Jazz
-After these playthroughs you should have **TODO/90** badges.
+After these playthroughs you should have **53/90** badges.
 
 <h4 class="hard-difficulty">Playthrough #1</h4>
 
@@ -273,7 +283,7 @@ After these playthroughs you should have **TODO/90** badges.
 
 
 ### Burn the Queen
-After these playthroughs you should have **TODO/90** badges.
+After these playthroughs you should have **59/90** badges.
 
 <h4 class="hard-difficulty">Playthrough #1</h4>
 
@@ -294,7 +304,7 @@ After these playthroughs you should have **TODO/90** badges.
 
 
 ### Dirt and Blood
-This is not a level I enjoyed playing, so I apologize in advance if the playthroughs below aren't as efficient as they could be. Regardless, after these playthroughs you should have **TODO/90** badges.
+This is not a level I enjoyed playing, so I apologize in advance if the playthroughs below aren't as efficient as they could be. Regardless, after these playthroughs you should have **65/90** badges.
 
 <h4 class="hard-difficulty">Playthrough #1</h4>
 
@@ -315,7 +325,7 @@ This is not a level I enjoyed playing, so I apologize in advance if the playthro
 
 
 ### A Cart Full Of Gunpowder
-After these playthroughs you should have **TODO/90** badges.
+After these playthroughs you should have **71/90** badges.
 
 <h4 class="hard-difficulty">Playthrough #1</h4>
 
@@ -339,25 +349,24 @@ After these playthroughs you should have **TODO/90** badges.
 
 
 ### The Wages of Pain
-This is not a level I enjoyed playing, so I apologize in advance if the playthroughs below aren't as efficient as they could be. Regardless, after these playthroughs you should have **TODO/90** badges.
+This is not a level I enjoyed playing, so I apologize in advance if the playthroughs below aren't as efficient as they could be. Regardless, after these playthroughs you should have **77/90** badges.
 
 <h4 class="hard-difficulty">Playthrough #1</h4>
 
 * Achieve ***[Power Nap: Interrupt an important healing procedure](https://www.youtube.com/watch?v=o8mm3fDr1bQ)*** at the very beginning of the mission.
 * Earn <u>Finish the mission without crossing the train tracks</u>. This places a fairly major restriction on the level but it it still manageable.
 * Earn <u>Kill 5 guards with the train</u>. You can do this by knocking out guards and dropping them onto the tracks. Alternately, for a more 'entertaining' approach, you can use Hector's `Whistle` on guards on the other side at the exact moment to have them run over by the train.
-* Earn <u>Use the wagon to block the train tracks</u>. Since you can't cross the train tracks, you don't have a choice here.
+* Earn <u>Use the wagon to block the train tracks</u>. Make a **manual save** before you do this; on the next playthrough, you can reload this to get the stuff on the other sides of the tracks quickly.
 * Earn <u>Finish the mission without dropping Isabelle</u>. This is easier than it sounds. You can't use Cooper, but since he's alone on the other side of the map there's not much he can do anyway. Since Kate and Hector are already at the front of the train, you'll have a much easier time taking out guards with them.
 * Earn <u>Complete the mission on Hard difficulty</u> by completing this playthrough.
 * Kill the [**first of two** Mimimi developer NPCs]("https://www.trueachievements.com/a298714/veteran-bounty-hunter-achievement").
 
-<h4 class="normal-difficulty">Playthrough #2</h4>
-This playthrough is mainly to get the second Mimimi dev and another secret achievement which are located on the other side of the tracks.
+<h4 class="hard-difficulty">Playthrough #2</h4>
+Reload your **manual save** from the previous playthrough.
 
-* Earn <u>Use the cattle to block the train tracks</u>.
+* Earn <u>Use the cattle to block the train tracks</u>. Once you earn this, you can quit the mission; the badge is counted instantly.
 * Achieve ***[Gunslinger's Creed: Jump from a tower into a cart of hay](https://www.youtube.com/watch?v=130AHX6nNOY)*** on the way to the previous badge.
 * Kill the [**second of two** Mimimi developer NPCs]("https://www.trueachievements.com/a298714/veteran-bounty-hunter-achievement").
-* [Optional] If you wish, you can try to earn <u>Don't kill anyone (except mission targets)</u> in this playthrough. I tried this but found it excessively tedious; you not only have to not kill anyone on the way to the cattle, you also have to prevent the cattle themselves from killing anybody!
 
 <p class="navigation-link">[Back to Navigation](#navigation)</p><br>
 
@@ -365,7 +374,7 @@ This playthrough is mainly to get the second Mimimi dev and another secret achie
 
 
 ### A Captain Of Industry
-This mission has a very easy [speedrun strategy](https://www.youtube.com/watch?v=UovLY9SbneY), executed here by *Optibum* again. Thus, the speedrun badge will be included. In fact, by making small tweaks here and there to this route, you can very easily earn all eight badges inside 30 minutes. After these playthroughs you should have **TODO/90** badges.
+This mission has a very easy [speedrun strategy](https://www.youtube.com/watch?v=UovLY9SbneY), executed here by *Optibum* again. Thus, the speedrun badge will be included. In fact, by making small tweaks here and there to this route, you can very easily earn all eight badges inside 30 minutes. After these playthroughs you should have **85/90** badges.
 
 <h4 class="normal-difficulty">Playthrough #1</h4>
 This is the speedrun playthough; the time limit is generous enough that it can be done first time, along with with a small change to earn an extra badge.
@@ -393,7 +402,7 @@ This follows the same route as earlier, but with more substantial changes. If yo
 
 
 ### The Old And The New
-I found this mission very long and tedious, and I think many other people felt the same. Thus, I decided to do a single playthrough and earn just 5 badges here. It is challenging enough with the added constraints of the five badges, so we'll be forgoing the Hard difficulty badge as well.
+I found this mission very long and tedious, and I think many other people felt the same. Thus, I decided to do a single playthrough and earn just 5 badges here. It is challenging enough with the added constraints of the five badges, so we'll be forgoing the Hard difficulty badge as well. After this playthrough you should have **90/90** badges.
 
 <h4 class="normal-difficulty">Playthrough #1</h4>
 
@@ -405,6 +414,8 @@ I found this mission very long and tedious, and I think many other people felt t
 * Achieve ***Veteran Bounty Hunter: Kill 31 hidden Mimimi devs*** by killing the [two Mimimi developer NPCs]("https://www.trueachievements.com/a298714/veteran-bounty-hunter-achievement").
 * Achieve ***[Chicken Dinner: Kill all 3 golden chickens](https://guides.gamepressure.com/desperados-iii/guide.asp?ID=58096)*** by shooting the final golden chicken.
 * Achieve ***Five Good Shots: Defeat Frank*** and ***Sheriff's Badge: Earn 90 badges*** by completing this playthrough.
+
+<p class="navigation-link">[Back to Navigation](#navigation)</p><br>
 
 
 
@@ -419,4 +430,11 @@ At this point, the only achievement you should have left is ***Most Entertaining
 4. [The Devil Is In The Details](https://www.youtube.com/watch?v=5wAtRzCUCCw), executed again by *z w*.
 5. [Bird Hunting](https://www.youtube.com/watch?v=96om0eFvf0Y), executed again by *z w*
 
-Both these speedrunners use some extremely clever tactics and amazing mechanics which can be easily applied to the story playthroughs as well.
+<p class="navigation-link">[Back to Navigation](#navigation)</p><br>
+
+
+
+
+## Conclusion
+
+And that's it! If you made it this far, congratulations! You should have a proud **36 of 36** on your Steam profile 😀 
