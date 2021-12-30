@@ -103,8 +103,8 @@ This mission has no badges or Mimimi devs, but has a few secret achievements.
 
 <h4 class="normal-difficulty">Playthrough #1</h4>
 
-* Achieve ***[Lindberg and Hutch: Decide the outcome of a duel]("https://www.youtube.com/watch?v=esaBl_teFSI")***.
-* Achieve ***[Sorry, Dad!: Knock out your father]("https://www.youtube.com/watch?v=jWd_AASN5QE")***.
+* Achieve ***[Lindberg and Hutch: Decide the outcome of a duel](https://www.youtube.com/watch?v=esaBl_teFSI)***.
+* Achieve ***[Sorry, Dad!: Knock out your father](https://www.youtube.com/watch?v=jWd_AASN5QE)***.
 
 <p class="navigation-link">[Back to Navigation](#navigation)</p><br>
 
@@ -202,7 +202,7 @@ This is the non-speedrun playthrough. In any case, try to follow the same route 
 This is the speedrun playthrough.
 
 * Earn <u>Win the bet with McCoy</u>. The speedrun route relies heavily on McCoy, so you should earn this naturally.
-* Earn <u>Speedrun: complete the mission in under 17:00 minutes</u>. Make sure you have adequately memorized what each character is supposed to do. Play smoothly and calmly; 17 minutes is more than enough time for this route. Optimbum makes some risky plays to avoid waiting for guard rotations, but you can afford to wait for them.
+* Earn <u>Speedrun: complete the mission in under 17:00 minutes</u>. Make sure you have adequately memorized what each character is supposed to do. Play smoothly and calmly; 17 minutes is more than enough time for this route. Optibum makes some risky plays to avoid waiting for guard rotations, but you can afford to wait for them.
 * * Earn <u>Don't save during the mission</u>. This should be straightforward if you've sufficiently practiced the route.
 
 <p class="navigation-link">[Back to Navigation](#navigation)</p><br>
