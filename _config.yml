@@ -11,8 +11,8 @@ kramdown:
 
 # Setup
 title:            Unhandled Exceptions
-tagline:          'Ramblings, interrupted'
-description:      'Ramblings, interrupted'
+tagline:          ''
+description:      ''
 
 author:
   name:           'Vedang Naik'
