@@ -406,11 +406,11 @@ Reload your **manual save** from the previous playthrough.
 This mission has a very easy [speedrun strategy](https://www.youtube.com/watch?v=UovLY9SbneY), executed here by *Optibum* again. Thus, the speedrun badge will be included. In fact, by making small tweaks here and there to this route, you can very easily earn all eight badges inside 30 minutes. After these playthroughs you should have **85/90** badges.
 
 <h4 class="normal-difficulty">Playthrough #1</h4>
-This is the speedrun playthough; the time limit is generous enough that it can be done first time, along with with a small change to earn an extra badge.
+This is the speedrun playthrough; the time limit is generous enough that it can be done first time, along with with a small change to earn an extra badge.
 
 * Earn <u>Don't use both distractions</u>; this is automatically achieved by this route.
 * Earn <u>Don't let anyone see you</u>. The 22 minutes for the speedrun badge is more than enough to execute this route. Thus, take your time and avoid being spotted.
-* Earn <u>Use mind control on Devitt's character</u>; this is automatically achieved by this route. Note that some online guides say that this badge cannot be earned unless one of the distractions has been used and DeVitt is alone with his men - this is **false** (at least as of writing this post); you can get it at any point.
+* Earn <u>Use mind control on DeVitt's character</u>; this is automatically achieved by this route. Note that some online guides say that this badge cannot be earned unless one of the distractions has been used and DeVitt is alone with his men - this is **false** (at least as of writing this post); you can get it at any point.
 * Earn <u>Kill 2 guards with a statue</u>. Immediately after relinquishing `Mind Control` on DeVitt and securing him, use Hector to drop the statue in the courtyard onto the guard and the Long Coat. If you miss a rotation, don't worry; you have enough time to do this and still get the speedrun badge.
 * Earn <u>Speedrun: Complete the mission in under 22:00 minutes</u>. Make sure you have memorized everything that each character has to do. Play smoothly and calmly; you have enough time. The last section is a little finnicky; I found that connecting a few guards and then using `Stella` on them helps.
 * Achieve ***Package Delivered: Take care of DeVitt*** by completing this playthrough.
@@ -453,8 +453,8 @@ I found this mission very long and tedious, and I think many other people felt t
 
 At this point, the only achievement you should have left is ***Most Entertaining: Complete 5 of the Baron's Challenges***. Since you've finished the main story, you will have all 14 challenges unlocked, out of which you must do five. Note that you can complete them on normal difficulty if you wish; in fact, even beginner difficulty may suffice, though I haven't tested this. Here are my recommendations - I chose them since they all have fairly straightforward speedruns:
 
-1. [What If?](https://www.youtube.com/watch?v=KP3nUQ8XT0s), executed again by *Optimbum*.
-2. [Bear Trap Triplets](https://www.youtube.com/watch?v=oef8lhGh3Bg), executed again by *Optimbum*.
+1. [What If?](https://www.youtube.com/watch?v=KP3nUQ8XT0s), executed again by *Optibum*.
+2. [Bear Trap Triplets](https://www.youtube.com/watch?v=oef8lhGh3Bg), executed again by *Optibum*.
 3. [Untitled Voodoo Mission](https://www.youtube.com/watch?v=N2fXGfhVy6A), executed by speedrunner *z w*.
 4. [The Devil Is In The Details](https://www.youtube.com/watch?v=5wAtRzCUCCw), executed again by *z w*.
 5. [Bird Hunting](https://www.youtube.com/watch?v=96om0eFvf0Y), executed again by *z w*
